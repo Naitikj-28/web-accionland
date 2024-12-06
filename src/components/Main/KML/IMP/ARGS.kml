@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="auto_rain_guage_station" id="auto_rain_guage_station">
+	<SimpleField name="Sr__No_" type="float"></SimpleField>
+	<SimpleField name="Station_Na" type="string"></SimpleField>
+	<SimpleField name="Zone" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Field7" type="string"></SimpleField>
+	<SimpleField name="Field8" type="string"></SimpleField>
+	<SimpleField name="Field9" type="string"></SimpleField>
+	<SimpleField name="Field10" type="string"></SimpleField>
+	<SimpleField name="Field11" type="string"></SimpleField>
+	<SimpleField name="Field12" type="string"></SimpleField>
+	<SimpleField name="Field13" type="string"></SimpleField>
+	<SimpleField name="Field14" type="string"></SimpleField>
+	<SimpleField name="Field15" type="string"></SimpleField>
+	<SimpleField name="Field16" type="string"></SimpleField>
+	<SimpleField name="Field17" type="string"></SimpleField>
+	<SimpleField name="Field18" type="string"></SimpleField>
+	<SimpleField name="Field19" type="string"></SimpleField>
+	<SimpleField name="Field20" type="string"></SimpleField>
+	<SimpleField name="Field21" type="string"></SimpleField>
+	<SimpleField name="Field22" type="string"></SimpleField>
+	<SimpleField name="Field23" type="string"></SimpleField>
+	<SimpleField name="Field24" type="string"></SimpleField>
+	<SimpleField name="Field25" type="string"></SimpleField>
+	<SimpleField name="Field26" type="string"></SimpleField>
+</Schema>
+<Folder><name>auto_rain_guage_station</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">1</SimpleData>
+		<SimpleData name="Station_Na">Danapith</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Address">Central Zone Office Sardar Patel Bhavan Danapith Ahmedabad Gujarat 380001</SimpleData>
+		<SimpleData name="Latitude">23.02076000000</SimpleData>
+		<SimpleData name="Longitude">72.58599000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.58599,23.02076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">2</SimpleData>
+		<SimpleData name="Station_Na">Dudheshwar</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Address">Dudheshwar Civic Center Dudheshwar Water Works Compound Shahibaug Ahmedabad Gujarat 380004</SimpleData>
+		<SimpleData name="Latitude">23.05159000000</SimpleData>
+		<SimpleData name="Longitude">72.58350000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5835,23.05159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">3</SimpleData>
+		<SimpleData name="Station_Na">Odhav</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Address">Odhav Sub-Zonal Office Near Rabari Vasahat Beside Odhav Fire Station Odhav Ahmedabad Gujarat 382415</SimpleData>
+		<SimpleData name="Latitude">23.02310000000</SimpleData>
+		<SimpleData name="Longitude">72.64980000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6498,23.0231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">4</SimpleData>
+		<SimpleData name="Station_Na">Viratnagar</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Address">East Zone Office Harubhai Mehta Bhavan Virat Nagar Cross Road Odhav Ahmedabad Gujarat 382415</SimpleData>
+		<SimpleData name="Latitude">23.02655000000</SimpleData>
+		<SimpleData name="Longitude">72.63909000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.63909,23.02655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">5</SimpleData>
+		<SimpleData name="Station_Na">Kotarpur</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Address">Administration Building Kotarpur Water Treatment Plant Kotarpur Ahmedabad Gujarat 382340</SimpleData>
+		<SimpleData name="Latitude">23.09220000000</SimpleData>
+		<SimpleData name="Longitude">72.65320000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6532,23.0922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">6</SimpleData>
+		<SimpleData name="Station_Na">Memco</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Address">North Zone Office Rajiv Gandhi Bhavan Near Memco Cross Road Naroda Rd Saijpur Bogha Ahmedabad Gujarat 382345</SimpleData>
+		<SimpleData name="Latitude">23.05624000000</SimpleData>
+		<SimpleData name="Longitude">72.63307000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.63307,23.05624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">7</SimpleData>
+		<SimpleData name="Station_Na">Bodakdev</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Address">North West Zone Office Rajamata Vijaya Raje Scindia Bhavan Judges Bungalow Road Bodakdev Ahmedabad Gujarat 380054</SimpleData>
+		<SimpleData name="Latitude">23.03898000000</SimpleData>
+		<SimpleData name="Longitude">72.51431000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.51431,23.03898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">8</SimpleData>
+		<SimpleData name="Station_Na">Science City</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Address">Gota Sub Zonal Office Nr.ADB Water Tank Science City Road Sola Ahmedabad Gujarat 380060</SimpleData>
+		<SimpleData name="Latitude">23.07180000000</SimpleData>
+		<SimpleData name="Longitude">72.51257000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.51257,23.0718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">9</SimpleData>
+		<SimpleData name="Station_Na">Maninagar</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Address">South Zone Office Dr. Shyam Prashad Mukherjee Bhavan Rambagh Maninagar Ahmedabad Gujarat 380008</SimpleData>
+		<SimpleData name="Latitude">22.99810000000</SimpleData>
+		<SimpleData name="Longitude">72.60303000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.60303,22.9981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">10</SimpleData>
+		<SimpleData name="Station_Na">Sarkhej</SimpleData>
+		<SimpleData name="Zone">South West</SimpleData>
+		<SimpleData name="Address">Sarkhej Sub Zonal Office Near Ahmedabad Rural Police Headquarters Makarba Ahmedabad Gujarat 380051</SimpleData>
+		<SimpleData name="Latitude">22.99572000000</SimpleData>
+		<SimpleData name="Longitude">72.51040000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5104,22.99572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">11</SimpleData>
+		<SimpleData name="Station_Na">Chandkheda</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Address">Chandkheda Sub-Zonal Office Old Chandkheda Nagar Palika Office Chandkheda Gam Ahmedabad Gujarat 382424</SimpleData>
+		<SimpleData name="Latitude">23.11700000000</SimpleData>
+		<SimpleData name="Longitude">72.58641000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.58641,23.117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">12</SimpleData>
+		<SimpleData name="Station_Na">Main Control</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Address">Monsoon Main Control Room Near Sanskar Kendra Museum, Bhagtacharya Road Paldi Ahmedabad Gujarat 380006</SimpleData>
+		<SimpleData name="Latitude">23.01296000000</SimpleData>
+		<SimpleData name="Longitude">72.56854000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.56854,23.01296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">13</SimpleData>
+		<SimpleData name="Station_Na">Usmanpura</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Address">West Zone Office Dr. Ramanbhai Patel Bhavan Usmanpura Char Rasta Ashram Rd Usmanpura Ahmedabad Gujarat 380013</SimpleData>
+		<SimpleData name="Latitude">23.04783000000</SimpleData>
+		<SimpleData name="Longitude">72.56996000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.56996,23.04783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">14</SimpleData>
+		<SimpleData name="Station_Na">Chakudiya</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Address">Rajpur Civic Centre Near Chakudiya Mahadev Temple Baliyakaka Road Rakhial Ahmedabad Gujarat 380038</SimpleData>
+		<SimpleData name="Latitude">23.01770000000</SimpleData>
+		<SimpleData name="Longitude">72.62419000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.62419,23.0177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">15</SimpleData>
+		<SimpleData name="Station_Na">Kathwada</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Address">Kathwada Gram Panchayat Office, Kathwada, Gujarat 382430</SimpleData>
+		<SimpleData name="Latitude">23.05792600000</SimpleData>
+		<SimpleData name="Longitude">72.70834800000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.708348,23.057926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">16</SimpleData>
+		<SimpleData name="Station_Na">Nikol</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Address">Nikol Sub Zonal Office, Shaheed Major Rushikesh Ramani Garden Cross Road, Nikol, Ahmedabad, Gujarat 382350</SimpleData>
+		<SimpleData name="Latitude">23.05333500000</SimpleData>
+		<SimpleData name="Longitude">72.66974900000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.669749,23.053335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">17</SimpleData>
+		<SimpleData name="Station_Na">Ramol</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Address">Ramol- Hathijan Sub Zonal Office, Near Jama Masjid Road, Ramol, Ahmedabad, Gujarat 382449</SimpleData>
+		<SimpleData name="Latitude">22.97855100000</SimpleData>
+		<SimpleData name="Longitude">72.65640200000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.656402,22.978551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">18</SimpleData>
+		<SimpleData name="Station_Na">Naroda</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Address">Naroda Civic Center Naroda Muthia Ward Office Naroda Gam Naroda Ahmedabad Gujarat 382330</SimpleData>
+		<SimpleData name="Latitude">23.07452000000</SimpleData>
+		<SimpleData name="Longitude">72.65608000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.65608,23.07452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">19</SimpleData>
+		<SimpleData name="Station_Na">Chandlodiya</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Address">Chandlodiya Sub-Zonal Office, Gayatri Nagar, Chandlodiya, Ahmedabad, Gujarat 380081</SimpleData>
+		<SimpleData name="Latitude">23.08374910000</SimpleData>
+		<SimpleData name="Longitude">72.54673900000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.546739,23.0837491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">20</SimpleData>
+		<SimpleData name="Station_Na">Gota</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Address">SBM Toilet, AMC Garden TP32, Opp ICB Flora, Ahmedabad 382481</SimpleData>
+		<SimpleData name="Latitude">23.10142900000</SimpleData>
+		<SimpleData name="Longitude">72.53988270000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5398827,23.101429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">21</SimpleData>
+		<SimpleData name="Station_Na">Vatva</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Address">Vatva Sub Zonal Office Vatva Road Near Mahalaxmi Corner Vatva Ahmedabad Gujarat 382440</SimpleData>
+		<SimpleData name="Latitude">22.95282000000</SimpleData>
+		<SimpleData name="Longitude">72.61704000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.61704,22.95282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">22</SimpleData>
+		<SimpleData name="Station_Na">Bopal</SimpleData>
+		<SimpleData name="Zone">South West</SimpleData>
+		<SimpleData name="Address">Bopal Gram Panchayat Office, Bopal Panchayat Rd, Near Ariyan Complex, Bopal Gham, Bopal, Ahmedabad, Gujarat 380058</SimpleData>
+		<SimpleData name="Latitude">23.03605200000</SimpleData>
+		<SimpleData name="Longitude">72.46271500000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.462715,23.036052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">23</SimpleData>
+		<SimpleData name="Station_Na">Jodhpur</SimpleData>
+		<SimpleData name="Zone">South West</SimpleData>
+		<SimpleData name="Address">AMC Jodhpur Ward New Office, Jodhpur Village, Ahmedabad, Gujarat 380015</SimpleData>
+		<SimpleData name="Latitude">23.01630600000</SimpleData>
+		<SimpleData name="Longitude">72.51541370000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5154137,23.016306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">24</SimpleData>
+		<SimpleData name="Station_Na">Maktampura</SimpleData>
+		<SimpleData name="Zone">South West</SimpleData>
+		<SimpleData name="Address">Maktampura Sub- Zonal Office, Sanklit Nagar, Juhapura, Ahmedabad, Gujarat 380052</SimpleData>
+		<SimpleData name="Latitude">22.99609030000</SimpleData>
+		<SimpleData name="Longitude">72.53452110000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5345211,22.9960903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#auto_rain_guage_station">
+		<SimpleData name="Sr__No_">25</SimpleData>
+		<SimpleData name="Station_Na">Ranip</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Address">Ranip Civic Center Pandit Deen Dayal Smruti Bhavan Near Municipal Library Ranip Ahmedabad Gujarat 382480</SimpleData>
+		<SimpleData name="Latitude">23.08106000000</SimpleData>
+		<SimpleData name="Longitude">72.57080000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5708,23.08106</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,2055 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="amc_water_logging_spot" id="amc_water_logging_spot">
+	<SimpleField name="Sr__No_" type="float"></SimpleField>
+	<SimpleField name="Zone" type="string"></SimpleField>
+	<SimpleField name="Ward" type="string"></SimpleField>
+	<SimpleField name="Place" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Rain__2_In" type="float"></SimpleField>
+	<SimpleField name="Rain__2__1" type="string"></SimpleField>
+	<SimpleField name="Rain__2_5" type="string"></SimpleField>
+	<SimpleField name="Rain__2_56" type="string"></SimpleField>
+	<SimpleField name="Rain_Above" type="float"></SimpleField>
+	<SimpleField name="F_Rain_Abo" type="string"></SimpleField>
+	<SimpleField name="Remarks" type="string"></SimpleField>
+</Schema>
+<Folder><name>amc_water_logging_spot</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">1</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Ward">Jamalpur</SimpleData>
+		<SimpleData name="Place">ST Gita Mandir Cross Road</SimpleData>
+		<SimpleData name="Latitude">23.01394300000</SimpleData>
+		<SimpleData name="Longitude">72.59126400000</SimpleData>
+		<SimpleData name="Rain__2_In">3</SimpleData>
+		<SimpleData name="Rain__2__1">00:15</SimpleData>
+		<SimpleData name="Rain__2_5">8</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">8</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.591264,23.013943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">2</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Ward">Asarwa</SimpleData>
+		<SimpleData name="Place">Om Nagar circle to Ghanti Tekra to
+Chamanpura Circle</SimpleData>
+		<SimpleData name="Latitude">23.04944400000</SimpleData>
+		<SimpleData name="Longitude">72.61805600000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.618056,23.049444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">3</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Ward">Asarwa</SimpleData>
+		<SimpleData name="Place">Nr.Memko Bridge Saibaba Society</SimpleData>
+		<SimpleData name="Latitude">23.05472200000</SimpleData>
+		<SimpleData name="Longitude">72.62361100000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">00:45</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.623611,23.054722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">4</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Ward">Asarwa</SimpleData>
+		<SimpleData name="Place">Forensic to MLA Quarters</SimpleData>
+		<SimpleData name="Latitude">23.05250000000</SimpleData>
+		<SimpleData name="Longitude">72.61000000000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:25</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">00:45</SimpleData>
+		<SimpleData name="Rain_Above">9</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.61,23.0525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">5</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Ward">Dariyapur</SimpleData>
+		<SimpleData name="Place">Madhyamik Choktha (old Shahpur area)</SimpleData>
+		<SimpleData name="Latitude">23.03499500000</SimpleData>
+		<SimpleData name="Longitude">72.58285500000</SimpleData>
+		<SimpleData name="Rain__2_In">2</SimpleData>
+		<SimpleData name="Rain__2__1">00:12</SimpleData>
+		<SimpleData name="Rain__2_5">4</SimpleData>
+		<SimpleData name="Rain__2_56">00:25</SimpleData>
+		<SimpleData name="Rain_Above">6</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.582855,23.034995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">6</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Ward">Shahpur</SimpleData>
+		<SimpleData name="Place">Hanumanpura BRTS</SimpleData>
+		<SimpleData name="Latitude">23.04363600000</SimpleData>
+		<SimpleData name="Longitude">72.58442600000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:18</SimpleData>
+		<SimpleData name="Rain__2_5">8</SimpleData>
+		<SimpleData name="Rain__2_56">00:25</SimpleData>
+		<SimpleData name="Rain_Above">10</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.584426,23.043636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">7</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Ward">Shahpur</SimpleData>
+		<SimpleData name="Place">Narbandhpura</SimpleData>
+		<SimpleData name="Latitude">23.05108100000</SimpleData>
+		<SimpleData name="Longitude">72.58483700000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:18</SimpleData>
+		<SimpleData name="Rain__2_5">8</SimpleData>
+		<SimpleData name="Rain__2_56">00:12</SimpleData>
+		<SimpleData name="Rain_Above">10</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.584837,23.051081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">9</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Ward">Shahibaug</SimpleData>
+		<SimpleData name="Place">Idgha</SimpleData>
+		<SimpleData name="Latitude">23.04150700000</SimpleData>
+		<SimpleData name="Longitude">72.59156300000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:12</SimpleData>
+		<SimpleData name="Rain__2_5">8</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">10</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.591563,23.041507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">10</SimpleData>
+		<SimpleData name="Zone">Central</SimpleData>
+		<SimpleData name="Ward">Khadia</SimpleData>
+		<SimpleData name="Place">Jayendra Panditnagar road, B/H new
+cloth market</SimpleData>
+		<SimpleData name="Latitude">23.01670600000</SimpleData>
+		<SimpleData name="Longitude">72.60103100000</SimpleData>
+		<SimpleData name="Rain__2_In">2</SimpleData>
+		<SimpleData name="Rain__2__1">00:12</SimpleData>
+		<SimpleData name="Rain__2_5">4</SimpleData>
+		<SimpleData name="Rain__2_56">00:25</SimpleData>
+		<SimpleData name="Rain_Above">6</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.601031,23.016706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">17</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Odhav</SimpleData>
+		<SimpleData name="Place">Chotalal char rasta</SimpleData>
+		<SimpleData name="Latitude">23.02682700000</SimpleData>
+		<SimpleData name="Longitude">72.65972200000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.659722,23.026827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">18</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Vastral</SimpleData>
+		<SimpleData name="Place">Madhav garden, gymnesium road</SimpleData>
+		<SimpleData name="Latitude">23.00412800000</SimpleData>
+		<SimpleData name="Longitude">72.66093400000</SimpleData>
+		<SimpleData name="Rain__2_In">9</SimpleData>
+		<SimpleData name="Rain__2__1">10:00</SimpleData>
+		<SimpleData name="Rain__2_5">16</SimpleData>
+		<SimpleData name="Rain__2_56">24:00:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">48:00:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.660934,23.004128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">19</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Vastral</SimpleData>
+		<SimpleData name="Place">RTO road</SimpleData>
+		<SimpleData name="Latitude">23.00044100000</SimpleData>
+		<SimpleData name="Longitude">72.64574400000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.645744,23.000441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">20</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Vastral</SimpleData>
+		<SimpleData name="Place">Dhara colony</SimpleData>
+		<SimpleData name="Latitude">22.99958900000</SimpleData>
+		<SimpleData name="Longitude">72.64807000000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.64807,22.999589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">21</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Vastral</SimpleData>
+		<SimpleData name="Place">Sumin nagar</SimpleData>
+		<SimpleData name="Latitude">23.00659400000</SimpleData>
+		<SimpleData name="Longitude">72.64306900000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.643069,23.006594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">22</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Vastral</SimpleData>
+		<SimpleData name="Place">Cosmos villa</SimpleData>
+		<SimpleData name="Latitude">23.00498500000</SimpleData>
+		<SimpleData name="Longitude">72.66175200000</SimpleData>
+		<SimpleData name="Rain__2_In">9</SimpleData>
+		<SimpleData name="Rain__2__1">10:00</SimpleData>
+		<SimpleData name="Rain__2_5">16</SimpleData>
+		<SimpleData name="Rain__2_56">24:00:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">48:00:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.661752,23.004985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">23</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Gomtipur</SimpleData>
+		<SimpleData name="Place">Soma textile</SimpleData>
+		<SimpleData name="Latitude">23.02002400000</SimpleData>
+		<SimpleData name="Longitude">72.63140200000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">30</SimpleData>
+		<SimpleData name="F_Rain_Abo">04:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.631402,23.020024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">24</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Gomtipur</SimpleData>
+		<SimpleData name="Place">Patel mill</SimpleData>
+		<SimpleData name="Latitude">23.02246100000</SimpleData>
+		<SimpleData name="Longitude">72.61427700000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:00</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.614277,23.022461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">25</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Gomtipur</SimpleData>
+		<SimpleData name="Place">Gomtipur fire brigade</SimpleData>
+		<SimpleData name="Latitude">23.01919100000</SimpleData>
+		<SimpleData name="Longitude">72.61382100000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.613821,23.019191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">26</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Bhaipura</SimpleData>
+		<SimpleData name="Place">Hatkeshwar cirlce</SimpleData>
+		<SimpleData name="Latitude">22.99908500000</SimpleData>
+		<SimpleData name="Longitude">72.62478500000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">24</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">30</SimpleData>
+		<SimpleData name="F_Rain_Abo">04:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.624785,22.999085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">27</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Bhaipura</SimpleData>
+		<SimpleData name="Place">Nexa showroom, BRTS Service road</SimpleData>
+		<SimpleData name="Latitude">22.99250300000</SimpleData>
+		<SimpleData name="Longitude">72.63243400000</SimpleData>
+		<SimpleData name="Rain__2_In">8</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">20</SimpleData>
+		<SimpleData name="Rain__2_56">02:30</SimpleData>
+		<SimpleData name="Rain_Above">25</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.632434,22.992503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">28</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Bhaipura</SimpleData>
+		<SimpleData name="Place">Jogeswari road</SimpleData>
+		<SimpleData name="Latitude">22.99997600000</SimpleData>
+		<SimpleData name="Longitude">72.63250000000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6325,22.999976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">29</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">nikol</SimpleData>
+		<SimpleData name="Place">Gopal chowk</SimpleData>
+		<SimpleData name="Latitude">23.04646600000</SimpleData>
+		<SimpleData name="Longitude">72.65718200000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">03:00</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">04:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">07:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.657182,23.046466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">30</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">nikol</SimpleData>
+		<SimpleData name="Place">Jivanwadi</SimpleData>
+		<SimpleData name="Latitude">23.04056400000</SimpleData>
+		<SimpleData name="Longitude">72.65400600000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">02:30</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.654006,23.040564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">31</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">nikol</SimpleData>
+		<SimpleData name="Place">Bapasitaram chowk</SimpleData>
+		<SimpleData name="Latitude">23.04978900000</SimpleData>
+		<SimpleData name="Longitude">72.65756900000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:00</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.657569,23.049789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">33</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Amraiwadi</SimpleData>
+		<SimpleData name="Place">Satyamnagr shak market</SimpleData>
+		<SimpleData name="Latitude">23.00797100000</SimpleData>
+		<SimpleData name="Longitude">72.62825800000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:00</SimpleData>
+		<SimpleData name="Rain__2_5">8</SimpleData>
+		<SimpleData name="Rain__2_56">02:30</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.628258,23.007971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">34</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Amraiwadi</SimpleData>
+		<SimpleData name="Place">Swastik char rasta</SimpleData>
+		<SimpleData name="Latitude">23.00965000000</SimpleData>
+		<SimpleData name="Longitude">72.63439500000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:00</SimpleData>
+		<SimpleData name="Rain__2_5">7</SimpleData>
+		<SimpleData name="Rain__2_56">02:30</SimpleData>
+		<SimpleData name="Rain_Above">9</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.634395,23.00965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">35</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Amraiwadi</SimpleData>
+		<SimpleData name="Place">Nagarvel hanuman char rsta</SimpleData>
+		<SimpleData name="Latitude">23.01133500000</SimpleData>
+		<SimpleData name="Longitude">72.63109600000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:00</SimpleData>
+		<SimpleData name="Rain__2_5">4</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">6</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.631096,23.011335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">36</SimpleData>
+		<SimpleData name="Zone">East</SimpleData>
+		<SimpleData name="Ward">Ramol-hathijan</SimpleData>
+		<SimpleData name="Place">Punitnagar</SimpleData>
+		<SimpleData name="Latitude">22.97730000000</SimpleData>
+		<SimpleData name="Longitude">72.62087500000</SimpleData>
+		<SimpleData name="Rain__2_In">8</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">11</SimpleData>
+		<SimpleData name="Rain__2_56">01:15</SimpleData>
+		<SimpleData name="Rain_Above">14</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.620875,22.9773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">37</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">bodakdev</SimpleData>
+		<SimpleData name="Place">AEC bridge</SimpleData>
+		<SimpleData name="Latitude">23.05087000000</SimpleData>
+		<SimpleData name="Longitude">72.54602400000</SimpleData>
+		<SimpleData name="Rain__2_In">5</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">11</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">13</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.546024,23.05087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">38</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">bodakdev</SimpleData>
+		<SimpleData name="Place">Helmet circle</SimpleData>
+		<SimpleData name="Latitude">23.04524000000</SimpleData>
+		<SimpleData name="Longitude">72.54157200000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">00:45</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.541572,23.04524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">39</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">bodakdev</SimpleData>
+		<SimpleData name="Place">Atithi hotel pase</SimpleData>
+		<SimpleData name="Latitude">23.03805700000</SimpleData>
+		<SimpleData name="Longitude">72.51349200000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">00:45</SimpleData>
+		<SimpleData name="Rain_Above">10</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.513492,23.038057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">40</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">bodakdev</SimpleData>
+		<SimpleData name="Place">Lady talav pase</SimpleData>
+		<SimpleData name="Latitude">23.04522000000</SimpleData>
+		<SimpleData name="Longitude">72.51187700000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">10</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">15</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.511877,23.04522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">41</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">bodakdev</SimpleData>
+		<SimpleData name="Place">Mahila lake pase</SimpleData>
+		<SimpleData name="Latitude">23.03189600000</SimpleData>
+		<SimpleData name="Longitude">72.50305300000</SimpleData>
+		<SimpleData name="Rain__2_In">7</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">13</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">04:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.503053,23.031896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">42</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">chandlodia</SimpleData>
+		<SimpleData name="Place">Gaytri Garnala</SimpleData>
+		<SimpleData name="Latitude">23.08501200000</SimpleData>
+		<SimpleData name="Longitude">72.55493800000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.554938,23.085012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">44</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">THALTEJ</SimpleData>
+		<SimpleData name="Place">SURDHARA CIRCLE</SimpleData>
+		<SimpleData name="Latitude">23.05316900000</SimpleData>
+		<SimpleData name="Longitude">72.52576000000</SimpleData>
+		<SimpleData name="Rain__2_In">3</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">5</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">8</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.52576,23.053169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">45</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">THALTEJ</SimpleData>
+		<SimpleData name="Place">SILVER CASA</SimpleData>
+		<SimpleData name="Latitude">23.06546600000</SimpleData>
+		<SimpleData name="Longitude">72.52457400000</SimpleData>
+		<SimpleData name="Rain__2_In">3</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">5</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">8</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.524574,23.065466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">46</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">Ghatlodiya</SimpleData>
+		<SimpleData name="Place">Hirabaug Soc road</SimpleData>
+		<SimpleData name="Latitude">23.06533400000</SimpleData>
+		<SimpleData name="Longitude">72.53666900000</SimpleData>
+		<SimpleData name="Rain__2_In">3</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.536669,23.065334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">47</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">Ghatlodiya</SimpleData>
+		<SimpleData name="Place">Super School to Sanskrit Apt.</SimpleData>
+		<SimpleData name="Latitude">23.06617000000</SimpleData>
+		<SimpleData name="Longitude">72.53723200000</SimpleData>
+		<SimpleData name="Rain__2_In">3</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.537232,23.06617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">48</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">Gota</SimpleData>
+		<SimpleData name="Place">Kumudnagar Junction</SimpleData>
+		<SimpleData name="Latitude">23.07568100000</SimpleData>
+		<SimpleData name="Longitude">72.52930800000</SimpleData>
+		<SimpleData name="Rain__2_In">24</SimpleData>
+		<SimpleData name="Rain__2__1">03:00</SimpleData>
+		<SimpleData name="Rain__2_5">45</SimpleData>
+		<SimpleData name="Rain__2_56">12:00</SimpleData>
+		<SimpleData name="Rain_Above">65</SimpleData>
+		<SimpleData name="F_Rain_Abo">12:00</SimpleData>
+		<SimpleData name="Remarks">Duration of Removal of rain water depends upon on main trunk line working pattern. If it is taking more time for removal of water it means main trunk line not taken a water.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.529308,23.075681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">49</SimpleData>
+		<SimpleData name="Zone">North West</SimpleData>
+		<SimpleData name="Ward">Gota</SimpleData>
+		<SimpleData name="Place">Harivila Junction</SimpleData>
+		<SimpleData name="Latitude">23.07599600000</SimpleData>
+		<SimpleData name="Longitude">72.52935200000</SimpleData>
+		<SimpleData name="Rain__2_In">24</SimpleData>
+		<SimpleData name="Rain__2__1">03:00</SimpleData>
+		<SimpleData name="Rain__2_5">45</SimpleData>
+		<SimpleData name="Rain__2_56">12:00</SimpleData>
+		<SimpleData name="Rain_Above">65</SimpleData>
+		<SimpleData name="F_Rain_Abo">12:00</SimpleData>
+		<SimpleData name="Remarks">Duration of Removal of rain water depends upon on main trunk line working pattern. If it is taking more time for removal of water it means main trunk line not taken a water.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.529352,23.075996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">50</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Sardarnagar</SimpleData>
+		<SimpleData name="Place">Indiranagar, Opp.Naroda  railway
+Station area, Khodiyarnagar main road</SimpleData>
+		<SimpleData name="Latitude">23.08280200000</SimpleData>
+		<SimpleData name="Longitude">72.65435600000</SimpleData>
+		<SimpleData name="Rain__2_In">9</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.654356,23.082802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">51</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Naroda</SimpleData>
+		<SimpleData name="Place">Vyas vadi Canal, Haridarshan Cross
+road, Swami narayan Mandir road</SimpleData>
+		<SimpleData name="Latitude">23.07138900000</SimpleData>
+		<SimpleData name="Longitude">72.66444400000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:15</SimpleData>
+		<SimpleData name="Rain__2_5">30</SimpleData>
+		<SimpleData name="Rain__2_56">01:15</SimpleData>
+		<SimpleData name="Rain_Above">42</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.664444,23.071389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">52</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Naroda</SimpleData>
+		<SimpleData name="Place">Near kharicut canal situated at navyug
+schoiol</SimpleData>
+		<SimpleData name="Latitude">23.07972200000</SimpleData>
+		<SimpleData name="Longitude">72.65222200000</SimpleData>
+		<SimpleData name="Rain__2_In">3</SimpleData>
+		<SimpleData name="Rain__2__1">00:15</SimpleData>
+		<SimpleData name="Rain__2_5">30</SimpleData>
+		<SimpleData name="Rain__2_56">01:15</SimpleData>
+		<SimpleData name="Rain_Above">42</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.652222,23.079722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">53</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Naroda</SimpleData>
+		<SimpleData name="Place">Hiloni to gangabhavan to dhiya nagar
+socity and sanket bunglow NH No-8</SimpleData>
+		<SimpleData name="Latitude">23.07361100000</SimpleData>
+		<SimpleData name="Longitude">72.65305600000</SimpleData>
+		<SimpleData name="Rain__2_In">2</SimpleData>
+		<SimpleData name="Rain__2__1">00:15</SimpleData>
+		<SimpleData name="Rain__2_5">30</SimpleData>
+		<SimpleData name="Rain__2_56">01:15</SimpleData>
+		<SimpleData name="Rain_Above">42</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.653056,23.073611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">54</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Kubernagar</SimpleData>
+		<SimpleData name="Place">Kubernagar Garnala</SimpleData>
+		<SimpleData name="Latitude">23.06776300000</SimpleData>
+		<SimpleData name="Longitude">72.63819800000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:15</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">00:45</SimpleData>
+		<SimpleData name="Rain_Above">36</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.638198,23.067763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">55</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Saijpur</SimpleData>
+		<SimpleData name="Place">Amabedkar Nagar</SimpleData>
+		<SimpleData name="Latitude">23.05638900000</SimpleData>
+		<SimpleData name="Longitude">72.62750000000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:00</SimpleData>
+		<SimpleData name="Rain__2_5">2</SimpleData>
+		<SimpleData name="Rain__2_56">00:15</SimpleData>
+		<SimpleData name="Rain_Above">3</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6275,23.056389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">56</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">India Colony</SimpleData>
+		<SimpleData name="Place">D-cololny road</SimpleData>
+		<SimpleData name="Latitude">23.05328300000</SimpleData>
+		<SimpleData name="Longitude">72.62528100000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.625281,23.053283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">57</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">India Colony</SimpleData>
+		<SimpleData name="Place">Anil starch</SimpleData>
+		<SimpleData name="Latitude">23.04185000000</SimpleData>
+		<SimpleData name="Longitude">72.62477400000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.624774,23.04185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">58</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">India Colony</SimpleData>
+		<SimpleData name="Place">Pratik vegtable market</SimpleData>
+		<SimpleData name="Latitude">23.04177900000</SimpleData>
+		<SimpleData name="Longitude">72.64043800000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.640438,23.041779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">59</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Bapunagar</SimpleData>
+		<SimpleData name="Place">137 Bus Stand</SimpleData>
+		<SimpleData name="Latitude">23.03411500000</SimpleData>
+		<SimpleData name="Longitude">72.63395500000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">01:25</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">02:50</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.633955,23.034115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">60</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Thakkarnagar</SimpleData>
+		<SimpleData name="Place">Chamak Chuna</SimpleData>
+		<SimpleData name="Latitude">23.04274400000</SimpleData>
+		<SimpleData name="Longitude">72.64096900000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">02:50</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">03:30</SimpleData>
+		<SimpleData name="Rain_Above">20</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.640969,23.042744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">61</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Thakkarnagar</SimpleData>
+		<SimpleData name="Place">Kalyan Chowk</SimpleData>
+		<SimpleData name="Latitude">23.04570800000</SimpleData>
+		<SimpleData name="Longitude">72.64951700000</SimpleData>
+		<SimpleData name="Rain__2_In">8</SimpleData>
+		<SimpleData name="Rain__2__1">01:50</SimpleData>
+		<SimpleData name="Rain__2_5">10</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.649517,23.045708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">62</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Thakkarnagar</SimpleData>
+		<SimpleData name="Place">Uttamnagar</SimpleData>
+		<SimpleData name="Latitude">23.04050000000</SimpleData>
+		<SimpleData name="Longitude">72.64935800000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">03:50</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">04:30</SimpleData>
+		<SimpleData name="Rain_Above">22</SimpleData>
+		<SimpleData name="F_Rain_Abo">04:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.649358,23.0405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">63</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">araspur- Rakhiya</SimpleData>
+		<SimpleData name="Place">Machhani masjid</SimpleData>
+		<SimpleData name="Latitude">23.03536600000</SimpleData>
+		<SimpleData name="Longitude">72.61856000000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">02:50</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">05:00</SimpleData>
+		<SimpleData name="Rain_Above">22</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.61856,23.035366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">64</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">araspur- Rakhiya</SimpleData>
+		<SimpleData name="Place">Everest cross road</SimpleData>
+		<SimpleData name="Latitude">23.03142300000</SimpleData>
+		<SimpleData name="Longitude">72.61511700000</SimpleData>
+		<SimpleData name="Rain__2_In">9</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">02:30</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.615117,23.031423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">65</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">araspur- Rakhiya</SimpleData>
+		<SimpleData name="Place">Rajivnagar cross road</SimpleData>
+		<SimpleData name="Latitude">23.02843300000</SimpleData>
+		<SimpleData name="Longitude">72.62183400000</SimpleData>
+		<SimpleData name="Rain__2_In">15</SimpleData>
+		<SimpleData name="Rain__2__1">04:00</SimpleData>
+		<SimpleData name="Rain__2_5">20</SimpleData>
+		<SimpleData name="Rain__2_56">06:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">06:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.621834,23.028433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">66</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Indiacolony</SimpleData>
+		<SimpleData name="Place">Trikamalal cross road</SimpleData>
+		<SimpleData name="Latitude">23.03676800000</SimpleData>
+		<SimpleData name="Longitude">72.61245900000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">02:00</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.612459,23.036768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">67</SimpleData>
+		<SimpleData name="Zone">North</SimpleData>
+		<SimpleData name="Ward">Indiacolony</SimpleData>
+		<SimpleData name="Place">Sanjaynagar cross road</SimpleData>
+		<SimpleData name="Latitude">23.03952000000</SimpleData>
+		<SimpleData name="Longitude">72.62199900000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">02:00</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.621999,23.03952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">79</SimpleData>
+		<SimpleData name="Zone">South West</SimpleData>
+		<SimpleData name="Ward">Sarkhej</SimpleData>
+		<SimpleData name="Place">Shrinand nagar-1</SimpleData>
+		<SimpleData name="Latitude">23.00160000000</SimpleData>
+		<SimpleData name="Longitude">72.51810000000</SimpleData>
+		<SimpleData name="Rain__2_In">8</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">8</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">26</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5181,23.0016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">100</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Maninagar</SimpleData>
+		<SimpleData name="Place">Rama Flat Chokthu &amp; Arman Flat</SimpleData>
+		<SimpleData name="Latitude">22.99419500000</SimpleData>
+		<SimpleData name="Longitude">72.59978100000</SimpleData>
+		<SimpleData name="Rain__2_In">10</SimpleData>
+		<SimpleData name="Rain__2__1">02:00</SimpleData>
+		<SimpleData name="Rain__2_5">20</SimpleData>
+		<SimpleData name="Rain__2_56">04:00</SimpleData>
+		<SimpleData name="Rain_Above">30</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.599781,22.994195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">101</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Maninagar</SimpleData>
+		<SimpleData name="Place">Surrounding Uttamnagar Garden</SimpleData>
+		<SimpleData name="Latitude">22.99159300000</SimpleData>
+		<SimpleData name="Longitude">72.60709400000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">02:30</SimpleData>
+		<SimpleData name="Rain__2_5">24</SimpleData>
+		<SimpleData name="Rain__2_56">05:00</SimpleData>
+		<SimpleData name="Rain_Above">30</SimpleData>
+		<SimpleData name="F_Rain_Abo">07:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.607094,22.991593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">102</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Maninagar</SimpleData>
+		<SimpleData name="Place">Railway Yard</SimpleData>
+		<SimpleData name="Latitude">23.01078200000</SimpleData>
+		<SimpleData name="Longitude">72.60102500000</SimpleData>
+		<SimpleData name="Rain__2_In">10</SimpleData>
+		<SimpleData name="Rain__2__1">01:30</SimpleData>
+		<SimpleData name="Rain__2_5">20</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.601025,23.010782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">103</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Maninagar</SimpleData>
+		<SimpleData name="Place">Vallabhvadi</SimpleData>
+		<SimpleData name="Latitude">22.99522900000</SimpleData>
+		<SimpleData name="Longitude">72.60202600000</SimpleData>
+		<SimpleData name="Rain__2_In">11</SimpleData>
+		<SimpleData name="Rain__2__1">02:00</SimpleData>
+		<SimpleData name="Rain__2_5">22</SimpleData>
+		<SimpleData name="Rain__2_56">03:30</SimpleData>
+		<SimpleData name="Rain_Above">26</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.602026,22.995229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">104</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Maninagar</SimpleData>
+		<SimpleData name="Place">Krushnabag (Near Farki)  &amp; Durga
+School &amp; Soni Mention Gali</SimpleData>
+		<SimpleData name="Latitude">22.99778800000</SimpleData>
+		<SimpleData name="Longitude">72.60567500000</SimpleData>
+		<SimpleData name="Rain__2_In">8</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">16</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.605675,22.997788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">105</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Maninagar</SimpleData>
+		<SimpleData name="Place">Millatnagar</SimpleData>
+		<SimpleData name="Latitude">22.99451300000</SimpleData>
+		<SimpleData name="Longitude">72.59640900000</SimpleData>
+		<SimpleData name="Rain__2_In">10</SimpleData>
+		<SimpleData name="Rain__2__1">01:30</SimpleData>
+		<SimpleData name="Rain__2_5">22</SimpleData>
+		<SimpleData name="Rain__2_56">04:00</SimpleData>
+		<SimpleData name="Rain_Above">36</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.596409,22.994513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">106</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Behrampura</SimpleData>
+		<SimpleData name="Place">Chippa Society</SimpleData>
+		<SimpleData name="Latitude">22.99238700000</SimpleData>
+		<SimpleData name="Longitude">72.58059800000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">02:00</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">04:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">06:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.580598,22.992387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">107</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Behrampura</SimpleData>
+		<SimpleData name="Place">Remuvala Way Bridge</SimpleData>
+		<SimpleData name="Latitude">22.99127100000</SimpleData>
+		<SimpleData name="Longitude">72.58163100000</SimpleData>
+		<SimpleData name="Rain__2_In">9</SimpleData>
+		<SimpleData name="Rain__2__1">01:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">04:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.581631,22.991271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">108</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Danilimda</SimpleData>
+		<SimpleData name="Place">Moti Bakry To BRTS Chandola Lake</SimpleData>
+		<SimpleData name="Latitude">22.99124500000</SimpleData>
+		<SimpleData name="Longitude">72.58199800000</SimpleData>
+		<SimpleData name="Rain__2_In">9</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">15</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">07:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.581998,22.991245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">109</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Danilimda</SimpleData>
+		<SimpleData name="Place">Pirkamal</SimpleData>
+		<SimpleData name="Latitude">23.00136800000</SimpleData>
+		<SimpleData name="Longitude">72.58660400000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">04:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.586604,23.001368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">110</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Danilimda</SimpleData>
+		<SimpleData name="Place">Ektanagar Dhruv nagar</SimpleData>
+		<SimpleData name="Latitude">22.99571500000</SimpleData>
+		<SimpleData name="Longitude">72.58400000000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">30</SimpleData>
+		<SimpleData name="F_Rain_Abo">08:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.584,22.995715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">111</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Indrapuri</SimpleData>
+		<SimpleData name="Place">Shakriba</SimpleData>
+		<SimpleData name="Latitude">22.99242200000</SimpleData>
+		<SimpleData name="Longitude">72.63868000000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.63868,22.992422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">112</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Indrapuri</SimpleData>
+		<SimpleData name="Place">Kushabhau Thakre Community Hall</SimpleData>
+		<SimpleData name="Latitude">22.99027200000</SimpleData>
+		<SimpleData name="Longitude">72.63592800000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:18</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.635928,22.990272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">113</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Indrapuri</SimpleData>
+		<SimpleData name="Place">Sinheshwari Satya sai Sayfan</SimpleData>
+		<SimpleData name="Latitude">22.98702400000</SimpleData>
+		<SimpleData name="Longitude">72.63601000000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">22</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.63601,22.987024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">114</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Khokhra</SimpleData>
+		<SimpleData name="Place">Daxini Bridge (Near Gor na Kuva)</SimpleData>
+		<SimpleData name="Latitude">22.98823500000</SimpleData>
+		<SimpleData name="Longitude">72.61731200000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.617312,22.988235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">115</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Khokhra</SimpleData>
+		<SimpleData name="Place">Gujarat Kamdar Kalyan Kendra</SimpleData>
+		<SimpleData name="Latitude">23.00274700000</SimpleData>
+		<SimpleData name="Longitude">72.62169000000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.62169,23.002747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">116</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Khokhra</SimpleData>
+		<SimpleData name="Place">Hatkeshwar Circle</SimpleData>
+		<SimpleData name="Latitude">22.99894300000</SimpleData>
+		<SimpleData name="Longitude">72.62440200000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">01:30</SimpleData>
+		<SimpleData name="Rain__2_5">18</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">04:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.624402,22.998943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">117</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Khokhra</SimpleData>
+		<SimpleData name="Place">Jadeja Corner to Ranjit Factory - Near
+Jay somnath School</SimpleData>
+		<SimpleData name="Latitude">22.99743800000</SimpleData>
+		<SimpleData name="Longitude">72.62170400000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">02:00</SimpleData>
+		<SimpleData name="Rain__2_5">15</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">04:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.621704,22.997438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">118</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Vatva</SimpleData>
+		<SimpleData name="Place">Ward Office - Near Mahalaxmi Lake</SimpleData>
+		<SimpleData name="Latitude">22.95192000000</SimpleData>
+		<SimpleData name="Longitude">72.61832300000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">13</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.618323,22.95192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">119</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Vatva</SimpleData>
+		<SimpleData name="Place">Cadila Bridge Service road</SimpleData>
+		<SimpleData name="Latitude">22.97882700000</SimpleData>
+		<SimpleData name="Longitude">72.61268200000</SimpleData>
+		<SimpleData name="Rain__2_In">8</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">14</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">25</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.612682,22.978827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">120</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Vatva</SimpleData>
+		<SimpleData name="Place">Dhanpaleshwar Mohjagat</SimpleData>
+		<SimpleData name="Latitude">22.95400400000</SimpleData>
+		<SimpleData name="Longitude">72.62587300000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">10</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.625873,22.954004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">121</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Vatva</SimpleData>
+		<SimpleData name="Place">Gujarat Offset</SimpleData>
+		<SimpleData name="Latitude">22.96237600000</SimpleData>
+		<SimpleData name="Longitude">72.62023000000</SimpleData>
+		<SimpleData name="Rain__2_In">9</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">16</SimpleData>
+		<SimpleData name="Rain__2_56">02:30</SimpleData>
+		<SimpleData name="Rain_Above">28</SimpleData>
+		<SimpleData name="F_Rain_Abo">04:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.62023,22.962376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">122</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Isanpur</SimpleData>
+		<SimpleData name="Place">Ganeshnagar</SimpleData>
+		<SimpleData name="Latitude">22.98610000000</SimpleData>
+		<SimpleData name="Longitude">72.59495700000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">15</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.594957,22.9861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">123</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Isanpur</SimpleData>
+		<SimpleData name="Place">Shantibaug Society</SimpleData>
+		<SimpleData name="Latitude">22.97628200000</SimpleData>
+		<SimpleData name="Longitude">72.59796700000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.597967,22.976282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">124</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Isanpur</SimpleData>
+		<SimpleData name="Place">Samrat Nagar</SimpleData>
+		<SimpleData name="Latitude">22.97348800000</SimpleData>
+		<SimpleData name="Longitude">72.60445000000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">6</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">9</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.60445,22.973488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">125</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Isanpur</SimpleData>
+		<SimpleData name="Place">Near Mahavir School</SimpleData>
+		<SimpleData name="Latitude">22.98030700000</SimpleData>
+		<SimpleData name="Longitude">72.59006800000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:30</SimpleData>
+		<SimpleData name="Rain__2_5">15</SimpleData>
+		<SimpleData name="Rain__2_56">01:30</SimpleData>
+		<SimpleData name="Rain_Above">30</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.590068,22.980307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">130</SimpleData>
+		<SimpleData name="Zone">South</SimpleData>
+		<SimpleData name="Ward">Lambha</SimpleData>
+		<SimpleData name="Place">Indiranagar</SimpleData>
+		<SimpleData name="Latitude">22.92960000000</SimpleData>
+		<SimpleData name="Longitude">72.56240000000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">NIL</SimpleData>
+		<SimpleData name="Rain__2_5">NIL</SimpleData>
+		<SimpleData name="Rain__2_56">NIL</SimpleData>
+		<SimpleData name="Rain_Above">4</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5624,22.9296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">133</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Naranpura</SimpleData>
+		<SimpleData name="Place">A.E.C Bridge</SimpleData>
+		<SimpleData name="Latitude">23.05356300000</SimpleData>
+		<SimpleData name="Longitude">72.54676900000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">7</SimpleData>
+		<SimpleData name="Rain__2_56">00:25</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.546769,23.053563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">134</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Naranpura</SimpleData>
+		<SimpleData name="Place">Chamunda nagar</SimpleData>
+		<SimpleData name="Latitude">23.05226100000</SimpleData>
+		<SimpleData name="Longitude">72.54966100000</SimpleData>
+		<SimpleData name="Rain__2_In">5</SimpleData>
+		<SimpleData name="Rain__2__1">00:15</SimpleData>
+		<SimpleData name="Rain__2_5">6</SimpleData>
+		<SimpleData name="Rain__2_56">00:20</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.549661,23.052261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">135</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Naranpura</SimpleData>
+		<SimpleData name="Place">Plaiyadnagar</SimpleData>
+		<SimpleData name="Latitude">23.04970600000</SimpleData>
+		<SimpleData name="Longitude">72.55337800000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">7</SimpleData>
+		<SimpleData name="Rain__2_56">00:25</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.553378,23.049706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">136</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Naranpura</SimpleData>
+		<SimpleData name="Place">Navrang Circle</SimpleData>
+		<SimpleData name="Latitude">23.04766300000</SimpleData>
+		<SimpleData name="Longitude">72.55656600000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:10</SimpleData>
+		<SimpleData name="Rain__2_5">5</SimpleData>
+		<SimpleData name="Rain__2_56">00:15</SimpleData>
+		<SimpleData name="Rain_Above">10</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.556566,23.047663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">137</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Naranpura</SimpleData>
+		<SimpleData name="Place">Amin choktha</SimpleData>
+		<SimpleData name="Latitude">23.04776800000</SimpleData>
+		<SimpleData name="Longitude">72.56181700000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">13</SimpleData>
+		<SimpleData name="Rain__2_56">00:20</SimpleData>
+		<SimpleData name="Rain_Above">15</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.561817,23.047768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">138</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Paldi</SimpleData>
+		<SimpleData name="Place">Shantivan cross road</SimpleData>
+		<SimpleData name="Latitude">23.00045500000</SimpleData>
+		<SimpleData name="Longitude">72.56132400000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:15</SimpleData>
+		<SimpleData name="Rain__2_5">10 to12</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.561324,23.000455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">139</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Paldi</SimpleData>
+		<SimpleData name="Place">Meghamani road</SimpleData>
+		<SimpleData name="Latitude">23.01091200000</SimpleData>
+		<SimpleData name="Longitude">72.55553800000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">8 to 10</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.555538,23.010912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">140</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Paldi</SimpleData>
+		<SimpleData name="Place">K.ka.shastri Library to shreyash bridge</SimpleData>
+		<SimpleData name="Latitude">23.01011600000</SimpleData>
+		<SimpleData name="Longitude">72.54724700000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:15</SimpleData>
+		<SimpleData name="Rain__2_5">7  to 10</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.547247,23.010116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">141</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Paldi</SimpleData>
+		<SimpleData name="Place">Bhimnath road</SimpleData>
+		<SimpleData name="Latitude">23.01118700000</SimpleData>
+		<SimpleData name="Longitude">72.54857600000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:15</SimpleData>
+		<SimpleData name="Rain__2_5">7  to 10</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.548576,23.011187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">142</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Paldi</SimpleData>
+		<SimpleData name="Place">Ambawadi</SimpleData>
+		<SimpleData name="Latitude">23.01640900000</SimpleData>
+		<SimpleData name="Longitude">72.55449200000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">6 to 8</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.554492,23.016409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">143</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Stadium</SimpleData>
+		<SimpleData name="Place">Navjivan press road</SimpleData>
+		<SimpleData name="Latitude">23.04610400000</SimpleData>
+		<SimpleData name="Longitude">72.56511700000</SimpleData>
+		<SimpleData name="Rain__2_In">9</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">12 to 14</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.565117,23.046104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">144</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Stadium</SimpleData>
+		<SimpleData name="Place">Vishvkosh road</SimpleData>
+		<SimpleData name="Latitude">23.05099000000</SimpleData>
+		<SimpleData name="Longitude">72.56569300000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">10 to 12</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.565693,23.05099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">145</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Stadium</SimpleData>
+		<SimpleData name="Place">Bhimjipura char rasta</SimpleData>
+		<SimpleData name="Latitude">23.06031700000</SimpleData>
+		<SimpleData name="Longitude">72.56786700000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">10 to 12</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.567867,23.060317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">146</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Stadium</SimpleData>
+		<SimpleData name="Place">ONGC circle</SimpleData>
+		<SimpleData name="Latitude">23.06904300000</SimpleData>
+		<SimpleData name="Longitude">72.58180800000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">00:25</SimpleData>
+		<SimpleData name="Rain__2_5">16 to 18</SimpleData>
+		<SimpleData name="Rain__2_56">00:40</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.581808,23.069043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">147</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Stadium</SimpleData>
+		<SimpleData name="Place">Khadiya ni chali Keshavnagar</SimpleData>
+		<SimpleData name="Latitude">23.06832500000</SimpleData>
+		<SimpleData name="Longitude">72.58514900000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">10 to 12</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.585149,23.068325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">148</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Vasna</SimpleData>
+		<SimpleData name="Place">Prajapati garden</SimpleData>
+		<SimpleData name="Latitude">23.00379900000</SimpleData>
+		<SimpleData name="Longitude">72.54608600000</SimpleData>
+		<SimpleData name="Rain__2_In">8</SimpleData>
+		<SimpleData name="Rain__2__1">00:50</SimpleData>
+		<SimpleData name="Rain__2_5">24</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">36</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.546086,23.003799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">149</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Vasna</SimpleData>
+		<SimpleData name="Place">Berrage road</SimpleData>
+		<SimpleData name="Latitude">22.99927200000</SimpleData>
+		<SimpleData name="Longitude">72.55110200000</SimpleData>
+		<SimpleData name="Rain__2_In">8</SimpleData>
+		<SimpleData name="Rain__2__1">00:50</SimpleData>
+		<SimpleData name="Rain__2_5">16</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.551102,22.999272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">150</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Vasna</SimpleData>
+		<SimpleData name="Place">Jaydeep tower</SimpleData>
+		<SimpleData name="Latitude">23.01027200000</SimpleData>
+		<SimpleData name="Longitude">72.54646200000</SimpleData>
+		<SimpleData name="Rain__2_In">4</SimpleData>
+		<SimpleData name="Rain__2__1">00:50</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.546462,23.010272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">152</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Vasna</SimpleData>
+		<SimpleData name="Place">Devas
+Note Devas flat about 6 feet below TP</SimpleData>
+		<SimpleData name="Latitude">23.00076100000</SimpleData>
+		<SimpleData name="Longitude">72.53840700000</SimpleData>
+		<SimpleData name="Rain__2_In">2</SimpleData>
+		<SimpleData name="Rain__2__1">00:50</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">03:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.538407,23.000761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">153</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Vasna</SimpleData>
+		<SimpleData name="Place">Higlaj mata temple</SimpleData>
+		<SimpleData name="Latitude">22.99803700000</SimpleData>
+		<SimpleData name="Longitude">72.55805700000</SimpleData>
+		<SimpleData name="Rain__2_In">1</SimpleData>
+		<SimpleData name="Rain__2__1">00:10</SimpleData>
+		<SimpleData name="Rain__2_5">6</SimpleData>
+		<SimpleData name="Rain__2_56">00:50</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.558057,22.998037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">154</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Sabarmati</SimpleData>
+		<SimpleData name="Place">Kailamata mandir</SimpleData>
+		<SimpleData name="Latitude">23.07495000000</SimpleData>
+		<SimpleData name="Longitude">72.59128000000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">NA</SimpleData>
+		<SimpleData name="Rain__2_5">6</SimpleData>
+		<SimpleData name="Rain__2_56">00:25</SimpleData>
+		<SimpleData name="Rain_Above">6</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.59128,23.07495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">155</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Sabarmati</SimpleData>
+		<SimpleData name="Place">Moteragam</SimpleData>
+		<SimpleData name="Latitude">23.10489000000</SimpleData>
+		<SimpleData name="Longitude">72.60323000000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">NA</SimpleData>
+		<SimpleData name="Rain__2_5">8</SimpleData>
+		<SimpleData name="Rain__2_56">00:50</SimpleData>
+		<SimpleData name="Rain_Above">8</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.60323,23.10489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">156</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Nava Vadaj</SimpleData>
+		<SimpleData name="Place">NIRNAYNGARA GARNALA</SimpleData>
+		<SimpleData name="Latitude">23.07247600000</SimpleData>
+		<SimpleData name="Longitude">72.55824300000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">NA</SimpleData>
+		<SimpleData name="Rain__2_5">9</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.558243,23.072476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">157</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Nava Vadaj</SimpleData>
+		<SimpleData name="Place">MAHESANASOCITY ROAD</SimpleData>
+		<SimpleData name="Latitude">23.05810000000</SimpleData>
+		<SimpleData name="Longitude">72.56860000000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">NA</SimpleData>
+		<SimpleData name="Rain__2_5">6</SimpleData>
+		<SimpleData name="Rain__2_56">00:15</SimpleData>
+		<SimpleData name="Rain_Above">12</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5686,23.0581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">158</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Nava Vadaj</SimpleData>
+		<SimpleData name="Place">Nr. JAYKHODIYAR SOCIETY METRO ROUT</SimpleData>
+		<SimpleData name="Latitude">23.06270000000</SimpleData>
+		<SimpleData name="Longitude">72.56140000000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">NA</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">00:30</SimpleData>
+		<SimpleData name="Rain_Above">18</SimpleData>
+		<SimpleData name="F_Rain_Abo">00:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5614,23.0627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">159</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Chandkheda</SimpleData>
+		<SimpleData name="Place">Mansarovar Road</SimpleData>
+		<SimpleData name="Latitude">23.11374000000</SimpleData>
+		<SimpleData name="Longitude">72.56843000000</SimpleData>
+		<SimpleData name="Rain__2_In">10</SimpleData>
+		<SimpleData name="Rain__2__1">02:00</SimpleData>
+		<SimpleData name="Rain__2_5">12</SimpleData>
+		<SimpleData name="Rain__2_56">03:00</SimpleData>
+		<SimpleData name="Rain_Above">16</SimpleData>
+		<SimpleData name="F_Rain_Abo">05:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.56843,23.11374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">160</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Chandkheda</SimpleData>
+		<SimpleData name="Place">Chandkheda new Baliyadev tempal Road</SimpleData>
+		<SimpleData name="Latitude">23.11698000000</SimpleData>
+		<SimpleData name="Longitude">72.58647000000</SimpleData>
+		<SimpleData name="Rain__2_In">6</SimpleData>
+		<SimpleData name="Rain__2__1">00:50</SimpleData>
+		<SimpleData name="Rain__2_5">8</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">10</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.58647,23.11698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">161</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Navrangpura</SimpleData>
+		<SimpleData name="Place">Panchvati five road</SimpleData>
+		<SimpleData name="Latitude">23.01210000000</SimpleData>
+		<SimpleData name="Longitude">72.54350000000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">6 to 7</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5435,23.0121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">162</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Navrangpura</SimpleData>
+		<SimpleData name="Place">Manek-baugh cross road</SimpleData>
+		<SimpleData name="Latitude">23.01520000000</SimpleData>
+		<SimpleData name="Longitude">72.53320000000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">7 to 8</SimpleData>
+		<SimpleData name="Rain__2_56">02:00</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5332,23.0152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">163</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Navrangpura</SimpleData>
+		<SimpleData name="Place">Vijay cross road</SimpleData>
+		<SimpleData name="Latitude">23.01744000000</SimpleData>
+		<SimpleData name="Longitude">72.54420000000</SimpleData>
+		<SimpleData name="Rain__2_In">0</SimpleData>
+		<SimpleData name="Rain__2__1">01:00</SimpleData>
+		<SimpleData name="Rain__2_5">5 to 6</SimpleData>
+		<SimpleData name="Rain__2_56">01:00</SimpleData>
+		<SimpleData name="Rain_Above">0</SimpleData>
+		<SimpleData name="F_Rain_Abo">02:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5442,23.01744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">164</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Ranip</SimpleData>
+		<SimpleData name="Place">Ramkorba toad</SimpleData>
+		<SimpleData name="Latitude">23.08527300000</SimpleData>
+		<SimpleData name="Longitude">72.55556900000</SimpleData>
+		<SimpleData name="Rain__2_In">12</SimpleData>
+		<SimpleData name="Rain__2__1">00:25</SimpleData>
+		<SimpleData name="Rain__2_5">24</SimpleData>
+		<SimpleData name="Rain__2_56">00:40</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.555569,23.085273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">165</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Ranip</SimpleData>
+		<SimpleData name="Place">Kailgam garnala</SimpleData>
+		<SimpleData name="Latitude">23.08513400000</SimpleData>
+		<SimpleData name="Longitude">72.57835400000</SimpleData>
+		<SimpleData name="Rain__2_In">30</SimpleData>
+		<SimpleData name="Rain__2__1">24:00:00</SimpleData>
+		<SimpleData name="Rain__2_5">36</SimpleData>
+		<SimpleData name="Rain__2_56">48:00:00</SimpleData>
+		<SimpleData name="Rain_Above">48</SimpleData>
+		<SimpleData name="F_Rain_Abo">72:00:00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.578354,23.085134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#amc_water_logging_spot">
+		<SimpleData name="Sr__No_">166</SimpleData>
+		<SimpleData name="Zone">West</SimpleData>
+		<SimpleData name="Ward">Ranip</SimpleData>
+		<SimpleData name="Place">Gaytryi garnala</SimpleData>
+		<SimpleData name="Latitude">23.08527300000</SimpleData>
+		<SimpleData name="Longitude">72.55556900000</SimpleData>
+		<SimpleData name="Rain__2_In">8</SimpleData>
+		<SimpleData name="Rain__2__1">00:20</SimpleData>
+		<SimpleData name="Rain__2_5">15</SimpleData>
+		<SimpleData name="Rain__2_56">00:40</SimpleData>
+		<SimpleData name="Rain_Above">24</SimpleData>
+		<SimpleData name="F_Rain_Abo">01:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.555569,23.085273</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sewerage_treatment_plant" id="sewerage_treatment_plant">
+	<SimpleField name="Ward" type="string"></SimpleField>
+	<SimpleField name="Zone" type="string"></SimpleField>
+	<SimpleField name="Capacity_I" type="float"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>sewerage_treatment_plant</name>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (106 MLD PIRANA)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">35_BAHERAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Capacity_I">106.00000000000</SimpleData>
+		<SimpleData name="Address">Near Khodiyarnagar BRTS bus stand, Behrampura-pirana road, Behrampura, Ahmedabad</SimpleData>
+		<SimpleData name="Latitude">22.99351111110</SimpleData>
+		<SimpleData name="Longitude">72.57013888890</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5701388889084,22.9935111115084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (OLD 126 MLD VASNA)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">34_MAKTAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH-WEST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">126.00000000000</SimpleData>
+		<SimpleData name="Address">Near Vishala hotel, after fatehwadi canal</SimpleData>
+		<SimpleData name="Latitude">22.97906666670</SimpleData>
+		<SimpleData name="Longitude">72.52141944440</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5214194441767,22.9790666664004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (180 MLD PIRANA)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">35_BAHERAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Capacity_I">180.00000000000</SimpleData>
+		<SimpleData name="Address">Near V.N. bridge, Vishala hotel to Narol road, besides Shastri bridge police choki</SimpleData>
+		<SimpleData name="Latitude">22.97906666670</SimpleData>
+		<SimpleData name="Longitude">72.54905277780</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5490527773754,22.9790666670769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation ( 60 MLD PIRANA)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">35_BAHERAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Capacity_I">60.00000000000</SimpleData>
+		<SimpleData name="Address">Near Khodiyarnagar BRTS bus stand, Behrampura-pirana road, Behrampura, Ahmedabad</SimpleData>
+		<SimpleData name="Latitude">22.97906666670</SimpleData>
+		<SimpleData name="Longitude">72.56572500000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5657250004066,22.9790666670646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (35 MLD VASNA)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">34_MAKTAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH-WEST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">35.00000000000</SimpleData>
+		<SimpleData name="Address">Near Vishala hotel, after fatehwadi canal</SimpleData>
+		<SimpleData name="Latitude">22.97906666670</SimpleData>
+		<SimpleData name="Longitude">72.53258888890</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5325888888968,22.9790666663352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (70 MLD VINZOL)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">70.00000000000</SimpleData>
+		<SimpleData name="Address">Near vinoba bhave nagar, off. S.P. ring road, vill. Vinzol</SimpleData>
+		<SimpleData name="Latitude">22.93847222220</SimpleData>
+		<SimpleData name="Longitude">72.64433750000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6443374997922,22.9384722221883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (240 MLD VASNA)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">34_MAKTAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH-WEST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">240.00000000000</SimpleData>
+		<SimpleData name="Address">Near Vishala hotel, after fatehwadi canal</SimpleData>
+		<SimpleData name="Latitude">22.98162500000</SimpleData>
+		<SimpleData name="Longitude">72.52876388890</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5287638886459,22.9816249997369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (35 MLD VINZOL)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">35.00000000000</SimpleData>
+		<SimpleData name="Address">Near vinoba bhave nagar, off. S.P. ring road, vill. Vinzol</SimpleData>
+		<SimpleData name="Latitude">22.93665277780</SimpleData>
+		<SimpleData name="Longitude">72.64495000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6449499999646,22.9366527778996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (1 MLD RASALA)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">18_NAVRANGPURA</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">1.00000000000</SimpleData>
+		<SimpleData name="Address">Rasala park, nr.Law garden, Ellisbridge</SimpleData>
+		<SimpleData name="Latitude">23.02316111110</SimpleData>
+		<SimpleData name="Longitude">72.55940555560</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5594055557967,23.0231611112342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (48 MLD VASNA)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">34_MAKTAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH-WEST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">48.00000000000</SimpleData>
+		<SimpleData name="Address">Near Vishala hotel, before fatehwadi canal</SimpleData>
+		<SimpleData name="Latitude">22.98734722220</SimpleData>
+		<SimpleData name="Longitude">72.53262222220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5326222222377,22.9873472224757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (25 MLD SHANKAR BHUVAN)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">17_SHAHPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Capacity_I">25.00000000000</SimpleData>
+		<SimpleData name="Address">Near Bhavan’s college, Khanpur</SimpleData>
+		<SimpleData name="Latitude">23.06938611110</SimpleData>
+		<SimpleData name="Longitude">72.60031111110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6003111109949,23.0693861107866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (60 MLD VADAJ)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">10_S_P_STADIUM</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">60.00000000000</SimpleData>
+		<SimpleData name="Address">Nr. Gandhi aashram, old Vadaj</SimpleData>
+		<SimpleData name="Latitude">23.06005555560</SimpleData>
+		<SimpleData name="Longitude">72.57576944440</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5757694444557,23.0600555556445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (5 MLD LAMBHA)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">46_LAMBHA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Capacity_I">5.00000000000</SimpleData>
+		<SimpleData name="Address">Lambha Gam, nr. Lambha temple</SimpleData>
+		<SimpleData name="Latitude">22.93478333330</SimpleData>
+		<SimpleData name="Longitude">72.57141666670</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5714166668577,22.9347833331635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (1 MLD SVP)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">30_PALDI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">1.00000000000</SimpleData>
+		<SimpleData name="Address">SVP hospital, riverfront road</SimpleData>
+		<SimpleData name="Latitude">23.01871111110</SimpleData>
+		<SimpleData name="Longitude">72.57229166670</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5722916662045,23.0187111110403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (0.5 MLD VASTRAPUR)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">19_BODAKDEV</SimpleData>
+		<SimpleData name="Zone">NORTH-WEST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">0.50000000000</SimpleData>
+		<SimpleData name="Address">Vastrapur lake, Bodakdev</SimpleData>
+		<SimpleData name="Latitude">23.03882500000</SimpleData>
+		<SimpleData name="Longitude">72.52770555560</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5277055556654,23.0388250001273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmedabad Municipal Corporation (0.5 MLD NIKOL)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_treatment_plant">
+		<SimpleData name="Ward">24_NIKOL</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Capacity_I">0.50000000000</SimpleData>
+		<SimpleData name="Address">Nikol storm water pumping station, Nikol</SimpleData>
+		<SimpleData name="Latitude">23.04659166670</SimpleData>
+		<SimpleData name="Longitude">72.65420555560</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6542055556594,23.0465916668898</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

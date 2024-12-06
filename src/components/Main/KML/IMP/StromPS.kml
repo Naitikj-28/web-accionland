@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="storm_pumping_station" id="storm_pumping_station">
+	<SimpleField name="Ward" type="string"></SimpleField>
+	<SimpleField name="Zone" type="string"></SimpleField>
+	<SimpleField name="Year_of_In" type="string"></SimpleField>
+</Schema>
+<Folder><name>storm_pumping_station</name>
+  <Placemark>
+	<name>Lambha-2</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">47_VATVA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6070285705735,22.9493711679036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vatva</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">47_VATVA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6180631657054,22.9765857849102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">35_BAHERAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5640702814803,22.9964602398084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lambha-5</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">46_LAMBHA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5950121672572,22.9318691568671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lambha-3</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">46_LAMBHA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5922466914623,22.9464195350483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lambha-4</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">46_LAMBHA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.606012133587,22.9606983685997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lambha-1</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">46_LAMBHA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5445834419393,22.9795479734008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">36_DANILIMDA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5885191137191,22.9947334896491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">42_INDRAPURI</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6428519480286,23.0090726437908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhairavnath SWD</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">37_MANINAGAR</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5959365624907,22.9943049552496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arbuda SWD Pumping</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">42_INDRAPURI</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6432335172929,23.0091290283491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sureliya SWD Pumping Station (Rita Nagar)</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">42_INDRAPURI</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6440250693443,23.0028765631741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kubernagar Storm Water Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">14_KUBERNAGR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6385043875373,23.0682099289367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">26_BAPUNAGAR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6327894813567,23.0252361771504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Everest SWD Pumping</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">27_SARASPUR_RAKHIYAL</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6152544692832,23.0309954990311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6511803270074,23.0561078399128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Puspak Storm Water Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.652374721584,23.0632295724812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Satyam</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6607483918181,23.066376116734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dehgam Storm Water Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6639367965069,23.0774521952297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jogni Mata Sump</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6630209403303,23.071691872915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TP-2 Storm water Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6645431028872,23.0732919351257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vyas Vadi Sump</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6636076148836,23.0715013729864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laxminagar Sump</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6524794887251,23.0790974486669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hiloni Sump</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.650651684662,23.0744134977245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Navyug Storm Water Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6520291734699,23.0634318679175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">23_THAKKARBAPANAGAR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6532055918546,23.0446343016058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">23_THAKKARBAPANAGAR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6522279795841,23.0504800046611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gayatri Nagar , Chehar Nagar</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">13_SAIJPUR_BOGHA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6367780127481,23.0645843000648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6589020813702,22.9372589337558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6425280537738,22.9372426958076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6408446612963,22.9419036345134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6474038297146,22.9582374116233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6418162080264,22.9644376406096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6409732636803,22.9647582109634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">40_ODHAV</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6494632236365,23.0262650293758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fire Brigade SWD Pumping</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">40_Odhav</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">2010/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6484033723352,23.022420339077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ambika Nagar SWD Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">40_ODHAV</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6498064373891,23.0271369434597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auda Garden SWD Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">41_VASTRAL</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6448460072422,23.0029941161218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harivila SWD Pumipng Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">25_VIRATNAGAR</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6511642236437,23.0314930446089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nirma Nala SWD Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6361557386124,22.978745800121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nikol SWD Pum[ping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">24_NIKOL</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6536999197632,23.0484304708148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>jasoda Canal Sump</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">43_BHAIPURA</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6249524642757,22.9849327771984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">29_JAMALPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.578588249994,23.0196309475782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">29_JAMALPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5761499963336,23.0301125689404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">17_SHAHPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5751612225922,23.0398856467511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">17_SHAHPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5754193990655,23.0420078208089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">17_SHAHPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5757529964069,23.0436492661309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">17_SHAHPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5796525213365,23.0528695683285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">17_SHAHPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5852011778396,23.0586540343214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">15_ASARWA</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6064871697486,23.043532511219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">15_ASARWA</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6093445388083,23.0443998315026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">15_ASARWA</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6075221595432,23.0445549889086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">01_GOTA</SimpleData>
+		<SimpleData name="Zone">NORTH-WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5291031217092,23.0832937789736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">01_GOTA</SimpleData>
+		<SimpleData name="Zone">NORTH-WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5377789821753,23.085591657301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">01_GOTA</SimpleData>
+		<SimpleData name="Zone">NORTH-WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5337973080141,23.0937850023714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">01_GOTA</SimpleData>
+		<SimpleData name="Zone">NORTH-WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5356586203076,23.0959071929534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">02_CHANDLODIA</SimpleData>
+		<SimpleData name="Zone">NORTH-WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5412872923509,23.0850997661896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">10_S_P_STADIUM</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5723541236044,23.0425414040874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">10_S_P_STADIUM</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.572478428108,23.0450091355641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">10_S_P_STADIUM</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.575041733652,23.0528106132978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">10_S_P_STADIUM</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5732826581095,23.0561309795161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">10_S_P_STADIUM</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5725803660973,23.0577006420617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">35_BAHERAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5640702814803,22.9964602398084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">05_RANIP</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5785992446912,23.0745697886712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">31_VASNA</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5492326106889,22.99323983831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">31_VASNA</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5537248993978,22.9940247358613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">30_PALDI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5630990297674,22.9978463335163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">30_PALDI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5634311324566,22.9982612702326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">30_PALDI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5675812971138,23.0032895379685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">30_PALDI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5691220671795,23.005725942587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">30_PALDI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.571557147303,23.014445550874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">30_PALDI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.573450009163,23.0218446325953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">18_NAVRANGPURA</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5717733783906,23.0306690800916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">18_NAVRANGPURA</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5714520592369,23.0341175661921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">04_SABARMATI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.599737374306,23.0844758003684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#storm_pumping_station">
+		<SimpleData name="Ward">04_SABARMATI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6128856458024,23.1174949363286</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

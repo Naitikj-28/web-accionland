@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sewerage_pumping_station" id="sewerage_pumping_station">
+	<SimpleField name="Ward" type="string"></SimpleField>
+	<SimpleField name="Zone" type="string"></SimpleField>
+	<SimpleField name="Year_of_In" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+</Schema>
+<Folder><name>sewerage_pumping_station</name>
+  <Placemark>
+	<name>Bag E Firdos Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">48_RAMOL_HATHIJAN</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Bag E Firdos Drainage Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6272812170899,22.9863794664538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gota Pump.STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">01_GOTA</SimpleData>
+		<SimpleData name="Zone">NORTH-WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Gota Pump.STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.531887488382,23.0985172390161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhadreshwar Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">11_SARDARNAGAR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Bhadreshwar Drainage Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6396482485208,23.0863643938466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ozone Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">11_SARDARNAGAR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Ozone Drainage Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6523748271207,23.0829572512663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sanjay Nagar Chiloda Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">11_SARDARNAGAR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Sanjay Nagar Chiloda Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6718372797775,23.1036380637733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sardar Nagar Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">11_SARDARNAGAR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Sardar Nagar Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6224312534028,23.0810489608125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Keshavnagar DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">10_S_P_STADIUM</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Keshavnagar DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5845618574008,23.0648330465727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jamalpur DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">29_JAMALPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Jamalpur DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5819842225736,23.0117117506611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Girdharnagar DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">16_SHAHIBAG</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Girdharnagar DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5968818900683,23.0476358330371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NehruNagar Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">14_KUBERNAGR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">NehruNagar Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6415305936358,23.0781226138388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Meghani Nagar Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">14_KUBERNAGR</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Meghani Nagar Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6196419503697,23.0600844597189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sahijpur DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">13_SAIJPUR_BOGHA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Sahijpur DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6422780271124,23.0626893538496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saijpur Drainage pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">13_SAIJPUR_BOGHA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Saijpur Drainage pumping Station -Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6393162600391,23.0604627076628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nigam Soc. DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">47_VATVA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Nigam Soc. DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6199980004192,22.9773714144884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirana Plant</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">35_BAHERAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Pirana Plant-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5709800897816,22.9935496791993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Suburban DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">35_BAHERAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">New Suburban DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5776183327574,23.002427567438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beherampura DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">35_BAHERAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Beherampura DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5805047859208,23.0077056489001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TCIDS DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">46_LAMBHA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">TCIDS DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5739035074167,22.959809242096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Isanpur- II DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">46_LAMBHA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Isanpur- II DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.603302181709,22.9682489014043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirana Sewage Terminal Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">46_LAMBHA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Pirana Sewage Terminal Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5487178339452,22.9738204275219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GIDC DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">46_LAMBHA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">GIDC DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.551013144726,22.974566526691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danilimda DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">36_DANILIMDA</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Danilimda DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5814151391623,22.9921382696017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Isanpur- I DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">45_ISANPUR</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Isanpur- I DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6017046958975,22.9772952950382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AUDA Terminal Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">34_MAKTAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH-WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">AUDA Terminal Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5341296432869,22.983785748799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vasana Sewage Terminal Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">34_MAKTAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH-WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Vasana Sewage Terminal Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.53446808714,22.9878803255154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vasna I.U.D.P. DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">34_MAKTAMPURA</SimpleData>
+		<SimpleData name="Zone">SOUTH-WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Vasna I.U.D.P. DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5200444088447,22.9998944875981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jawaharnagar DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">30_PALDI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Jawaharnagar DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5612283849485,23.0008974994408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sharda Mandir DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">30_PALDI</SimpleData>
+		<SimpleData name="Zone">WEST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Sharda Mandir DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5514437879339,23.012246973721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mehdikuva DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">17_SHAHPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Mehdikuva DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5826582680957,23.0407087634726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shahibag DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">17_SHAHPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Shahibag DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5900562563707,23.0494001475618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chamanpura DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">15_ASARWA</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Chamanpura DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6107780714249,23.043029102977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Chamanpura DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">15_ASARWA</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">New Chamanpura DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6094311779008,23.0451477659818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaiking Tower DR.Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">39_AMRAIWADI</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Shaiking Tower DR.Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6179021483026,23.0125054395667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naroda DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Naroda DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6527449800557,23.0670162900196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Satyam DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Satyam DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6643551193166,23.0727884160616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GIDC Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">GIDC Drainage Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6635692507043,23.0773763629386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Satyam Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Satyam-Storm Water Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6607483918337,23.0663761158314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Swapnsrusti Sinking Well</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Swapnsrusti Sinking Well-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6714058774827,23.0702590780422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TP-121, FP- 161(Proposed)</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">TP-121, FP- 161(Proposed)-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6781862315234,23.0694393865961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Muthia Gam Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">12_NARODA</SimpleData>
+		<SimpleData name="Zone">NORTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Muthia Gam Drainage Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6791795902012,23.096293806747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Odhav-A Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">42_INDRAPURI</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Odhav-A Drainage Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6439439900209,23.0114642987118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Indrapuri Pump.STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">42_INDRAPURI</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Indrapuri Pump.STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6402047977217,22.9897874164774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Odhav_B Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">40_ODHAV</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Odhav_B Drainage Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6487380014933,23.0213557136702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Odhav-E Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">40_ODHAV</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Odhav-E Drainage Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.659534046352,23.022173245649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nikol Virat nagar DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">40_ODHAV</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Nikol Virat nagar DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6495271355685,23.0260758833446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nikol Drainage Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">25_VIRATNAGAR</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Nikol Drainage Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6466079338396,23.0298192768837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nikol Remote DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">25_VIRATNAGAR</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Nikol Remote DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6518028310879,23.0396721595279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gomtipur DR Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">38_GOMTIPUR</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Gomtipur DR Pumping Station-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6036011109072,23.0208785436752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rakhial Drainage Pumping Staion</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">38_GOMTIPUR</SimpleData>
+		<SimpleData name="Zone">EAST ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Rakhial Drainage Pumping Staion-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.622732728088,23.0213058704211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maninagar DR. Pump. STN</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">37_MANINAGAR</SimpleData>
+		<SimpleData name="Zone">SOUTH ZONE</SimpleData>
+		<SimpleData name="Year_of_In">1900/01/01</SimpleData>
+		<SimpleData name="Address">Maninagar DR. Pump. STN-Sewerage Pumping Station,Ahmedabad Gujarat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5943244691249,22.9977658770557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">21_DARIYAPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5955634643534,23.037132912527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>new girdharnagar pumping station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">16_SHAHIBAG</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5969455070826,23.0446763477344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dholakuva Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">16_SHAHIBAG</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5939818490505,23.0511365303318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalupur Drainage Sump</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">28_KHADIA</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5940663156209,23.0282287609329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mirzapur Pumping Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sewerage_pumping_station">
+		<SimpleData name="Ward">29_JAMALPUR</SimpleData>
+		<SimpleData name="Zone">CENTRAL ZONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5828385979092,23.0302369474916</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

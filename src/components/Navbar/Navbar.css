@@ -1,0 +1,62 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 0rem;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    cursor: context-menu;
+}
+
+.navbar-left {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 70px;
+    margin-right: 0.5rem;
+    margin-left: 1rem;
+    margin-bottom: -1%;
+}
+
+.brand-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5rem;
+}
+
+.brand-name {
+    font-size: 2.1rem;
+    font-weight: bold;
+    line-height: 1;
+    color: #418C61;
+}
+
+.write {
+    font-size: 1.3rem;
+    font-family: cursive;
+    line-height: 1.2;
+    margin-top: 0.2rem;
+    padding-left: 10px;
+    color: black;
+}
+
+.navbar-right {
+    margin-left: auto;
+    margin-right: 2%;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: #418C61;
+}
+
+.contact-link:hover {
+    text-decoration: underline;
+}

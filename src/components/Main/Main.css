@@ -1,0 +1,157 @@
+.main-content {
+    flex: 0 0 75%;
+    height: calc(100vh - 70px);
+    background-color: #f0f0f0;
+    /* -------------------- */
+    /* border: 0.4rem solid #cccccc; */
+    border: 0.4rem solid #418C61;
+    /* -------------------- */
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+}
+
+.leaflet-container {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.leaflet-map {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+.dropdown {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background-color: #418C61;
+    padding: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+    width: 150px;
+    max-height: 280px;
+    overflow-y: auto;
+    border-radius: 4px;
+}
+
+.styled-dropdown {
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+    margin-bottom: 15px;
+}
+
+.section-toggle {
+    background-color: #cccccc;
+    color: #ffffff;
+    padding: 8px 12px;
+    width: 100%;
+    text-align: left;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+.section-toggle:hover {
+    /* background-color: #7c7c7c; */
+    background-color: #418C61;
+}
+
+.section-items {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.dropdown-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.dropdown-item input[type="checkbox"] {
+    margin-right: 10px;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.dropdown-item label {
+    font-size: 14px;
+    color: #333;
+    cursor: pointer;
+}
+
+.arrow-down {
+    margin-left: 10px;
+    transition: transform 0.3s;
+}
+
+.arrow-up {
+    margin-left: 10px;
+    transition: transform 0.3s;
+    transform: rotate(180deg);
+}
+
+.map-toggle {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1000;
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.toggle-btn {
+    padding: 10px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: none;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.toggle-btn:hover {
+    background-color: #418C61;
+    color: #000000;
+}
+
+.toggle-btn:first-child {
+    border-right: 1px solid #cccccc;
+}
+
+
+/* Style the popup container */
+.popup-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.popup-table td {
+    padding: 5px 10px;
+    vertical-align: top;
+}
+
+.popup-table td {
+    color: #333;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+
+.leaflet-popup-close-button {
+    color: #418C61;
+    font-size: 16px;
+}

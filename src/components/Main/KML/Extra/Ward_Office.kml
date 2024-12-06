@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="amc_facilities__ward_office" id="amc_facilities__ward_office">
+
+</Schema>
+<Folder><name>amc_facilities__ward_office</name>
+  <Placemark>
+	<name>New Muster Office Danilimda</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">  
+		<SimpleData name="Address">New Muster Office Danilimda - Nr Danilimda Road</SimpleData>
+		<SimpleData name="Latitude">22.9924866</SimpleData>
+		<SimpleData name="Longitude">72.5844166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5844166,22.9924866,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naroda Road , SubZonal Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office"> 
+		<SimpleData name="Address">SubZonal Office,
+Nr. Ashok Mill
+Naroad </SimpleData>
+		<SimpleData name="Latitude">23.0362944</SimpleData>
+		<SimpleData name="Longitude">72.6062386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6062386,23.0362944,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nikol New Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">	  
+		<SimpleData name="Address">Nikol New Office  sub zone </SimpleData>
+		<SimpleData name="Latitude">23.0533839</SimpleData>
+		<SimpleData name="Longitude">72.6693675</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6693675,23.0533839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ramol-Subzone Muster Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		<SimpleData name="Address">Ramol Nr, Jama Masjid Road Ramol</SimpleData>
+		<SimpleData name="Latitude">22.9785507</SimpleData>
+		<SimpleData name="Longitude">72.656402</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.656402,22.9785507,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shahibaug Ward Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">	  
+		<SimpleData name="Address">Girdharnagar Ward Office, Near. Civil Hospital, Ahmedabad.</SimpleData>
+		<SimpleData name="Latitude">23.051791</SimpleData>
+		<SimpleData name="Longitude">72.599129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.599129,23.051791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lambha Ward Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">  
+		<SimpleData name="Address">1, National Highway 8, Narolgam, Ahmedabad, Gujarat</SimpleData>
+		<SimpleData name="Latitude">22.961994</SimpleData>
+		<SimpleData name="Longitude">72.591557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.591557,22.961994,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thakkarbapa Nagar Ward Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		<SimpleData name="Address">Thakkarbapa Nagar Ward Office</SimpleData>
+		<SimpleData name="Latitude">23.047155</SimpleData>
+		<SimpleData name="Longitude">72.643415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.643415,23.047155,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khadia Sub Zonal Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Near, Panchkuwa road, Ahmedabad</SimpleData>
+		<SimpleData name="Latitude">23.024967</SimpleData>
+		<SimpleData name="Longitude">72.597174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.597174,23.024967,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Navrangpura</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">5, Navrangpura Marg, Swastik Society, Navrangpura, Ahmedabad, Gujarat 380009, India</SimpleData>
+		<SimpleData name="Latitude">23.036283</SimpleData>
+		<SimpleData name="Longitude">72.56300099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.563001,23.036283,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raikhad</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Raikhad Cahar Nadika Daravaj Road, Raikhad, </SimpleData>
+		<SimpleData name="Latitude">23.0192512</SimpleData>
+		<SimpleData name="Longitude">72.5802711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5802711,23.0192512,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Krushnanagar Ward office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Krushnanagar Ward Office, Near, Saijpur tower</SimpleData>
+		<SimpleData name="Latitude">23.0607525</SimpleData>
+		<SimpleData name="Longitude">72.63904619999994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6390461999999,23.0607525,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saijpur</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Urban Health Center, Bhargav Road, Saijpur Bogha, Ahmedabad, Gujarat</SimpleData>
+		<SimpleData name="Latitude">23.0617152</SimpleData>
+		<SimpleData name="Longitude">72.62786600000004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.627866,23.0617152,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vasna</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Near Swaminarayan school, Vasna </SimpleData>
+		<SimpleData name="Latitude">23.000582</SimpleData>
+		<SimpleData name="Longitude">72.550185</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.550185,23.000582,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paldi</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Paldi Ward office</SimpleData>
+		<SimpleData name="Latitude">23.0142474</SimpleData>
+		<SimpleData name="Longitude">72.56189700000004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.561897,23.0142474,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maktampura</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Makampura office, Near Rehnuma Society, Vishala</SimpleData>
+		<SimpleData name="Latitude">22.994938</SimpleData>
+		<SimpleData name="Longitude">72.53297880000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5329788,22.994938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhaipura </name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Bhaipura, Hatkeshwar
+Ahmedabad, Gujarat 380008</SimpleData>
+		<SimpleData name="Latitude">22.992365</SimpleData>
+		<SimpleData name="Longitude">72.6251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6251,22.992365,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maninagar Master office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Near Maninagar Railway station , maninagar </SimpleData>
+		<SimpleData name="Latitude">22.999099</SimpleData>
+		<SimpleData name="Longitude">72.61031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.61031,22.999099,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thaltej</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Near Thaltej lake, Ahmedabad </SimpleData>
+		<SimpleData name="Latitude">23.050203</SimpleData>
+		<SimpleData name="Longitude">72.512842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.512842,23.050203,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khohra Sub Zone Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Sanatan Society Road , Khokhra , Ahmedabad - 380008 , Gujar</SimpleData>
+		<SimpleData name="Latitude">22.9987844</SimpleData>
+		<SimpleData name="Longitude">72.61791779999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6179178,22.9987844,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ghtalodiya</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Opposite Preet Residency, Below Chanakypuri Bridge, Ghatlodiya 380061 </SimpleData>
+		<SimpleData name="Latitude">23.0714785</SimpleData>
+		<SimpleData name="Longitude">72.54242750000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5424275,23.0714785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ranip</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Old Nagarpalika Bldg.,Opp. Mahesh Party Plot,Ahmedabad.-382470</SimpleData>
+		<SimpleData name="Latitude">23.079909</SimpleData>
+		<SimpleData name="Longitude">72.574228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.574228,23.079909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gota Ward Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">9/10, Gota Gam Road, Gota, Ahmedabad, Gujarat 382481, India </SimpleData>
+		<SimpleData name="Latitude">23.098718</SimpleData>
+		<SimpleData name="Longitude">72.537268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.537268,23.098718,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bodakdev Ward Office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Memnagar Road, Memnagar, Ahmedabad, Gujarat 380052, India</SimpleData>
+		<SimpleData name="Latitude">23.048554</SimpleData>
+		<SimpleData name="Longitude">72.539243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.539243,23.048554,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sarkhej</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Sarkhej Village Road, Sarkhej, Ahmedabad, Gujarat 380055, India</SimpleData>
+		<SimpleData name="Latitude">22.980873</SimpleData>
+		<SimpleData name="Longitude">72.502141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.502141,22.980873,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vejalpur</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Jaltarang Society, 9B, Vejalpur Road, Jignasa Society, Vibhavari Society, Jivrajpark, Ahmedabad, Gujarat 380051, India</SimpleData>
+		<SimpleData name="Latitude">23.0039624</SimpleData>
+		<SimpleData name="Longitude">72.52326160000007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5232616000001,23.0039624,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jodhpur</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">10, Jodhpur Village, Jodhpur, Ahmedabad, Gujarat 380015, India</SimpleData>
+		<SimpleData name="Latitude">23.016724</SimpleData>
+		<SimpleData name="Longitude">72.520452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.520452,23.016724,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">45, Somnath Road, Shanti Nagar, Usmanpura, Ahmedabad, Gujarat 380013, India</SimpleData>
+		<SimpleData name="Latitude">23.049202</SimpleData>
+		<SimpleData name="Longitude">72.56431599999996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.564316,23.049202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Wadaj</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">32, New Wadaj Road, Bhimjipura, Nava Vadaj, Ahmedabad, Gujarat 380013, India</SimpleData>
+		<SimpleData name="Latitude">23.062522</SimpleData>
+		<SimpleData name="Longitude">72.565108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.565108,23.062522,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sabarmati</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">AMTS Bus Stand, Dharm Nagar II, Sabarmati, Ahmedabad, Gujarat 380005, India</SimpleData>
+		<SimpleData name="Latitude">23.0742044</SimpleData>
+		<SimpleData name="Longitude">72.59247419999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5924742,23.0742044,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chandkheda</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">1, Nigam Nagar, Chandkheda, Ahmedabad, Gujarat 382424, India</SimpleData>
+		<SimpleData name="Latitude">23.108351</SimpleData>
+		<SimpleData name="Longitude">72.59265600000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.592656,23.108351,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dariyapur</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">2649, Delhi Chakla, Dariyapur, Ahmedabad, Gujarat 380001, India</SimpleData>
+		<SimpleData name="Latitude">23.036437</SimpleData>
+		<SimpleData name="Longitude">72.59090800000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.590908,23.036437,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sardarnagar</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">643, Shri Sadhujti L Vasvani Marg, Sindhi Ambawadi, Hansol, Ahmedabad, Gujarat 382475, India</SimpleData>
+		<SimpleData name="Latitude">23.08149</SimpleData>
+		<SimpleData name="Longitude">72.63217099999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.632171,23.08149,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Isanpur</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Ramwadi-Anandwadi Road, Jay Krishna Society, Isanpur, Ahmedabad, Gujarat 380050, India</SimpleData>
+		<SimpleData name="Latitude">22.9806956</SimpleData>
+		<SimpleData name="Longitude">72.60234400000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.602344,22.9806956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Indrapuri</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">CTM Flyover 2, Hatkeshwar, Ahmedabad, Gujarat 380008, India</SimpleData>
+		<SimpleData name="Latitude">22.989127</SimpleData>
+		<SimpleData name="Longitude">72.630652</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.630652,22.989127,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vatva</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">16/17, Vatva, Ahmedabad, Gujarat 382440, India</SimpleData>
+		<SimpleData name="Latitude">22.952902</SimpleData>
+		<SimpleData name="Longitude">72.61703299999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.617033,22.952902,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Behrampura</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Piplaj - Pirana Road, Calico Mills, Behrampura, Ahmedabad, Gujarat 380022, India</SimpleData>
+		<SimpleData name="Latitude">22.997042</SimpleData>
+		<SimpleData name="Longitude">72.574079</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.574079,22.997042,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rajpur</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">11, Industrial Area, Rakhial, Ahmedabad, Gujarat 380021, India</SimpleData>
+		<SimpleData name="Latitude">23.017831</SimpleData>
+		<SimpleData name="Longitude">72.624324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.624324,23.017831,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amraivadi</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Ajod Dairy Road, Amraiwadi, Ahmedabad, Gujarat 380021, India</SimpleData>
+		<SimpleData name="Latitude">23.008722</SimpleData>
+		<SimpleData name="Longitude">72.628711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.628711,23.008722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bapunagar</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">3, Taj Mohammad Khan Pathan Road, Soni ni chali, Virat Nagar, Rakhial, Ahmedabad, Gujarat 380024, India</SimpleData>
+		<SimpleData name="Latitude">23.025917</SimpleData>
+		<SimpleData name="Longitude">72.635723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.635723,23.025917,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vastral</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">54, Ajay Tent No. 5 Road, Mahadev Nagar, Ahmedabad, Gujarat 382418, India</SimpleData>
+		<SimpleData name="Latitude">23.0002077</SimpleData>
+		<SimpleData name="Longitude">72.64621139999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6462114,23.0002077,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Odhav</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">63/A, Rabadi Vasahat Road, G I D C Industrial Area, Odhav, Ahmedabad, Gujarat 382415, India</SimpleData>
+		<SimpleData name="Latitude">23.0240978</SimpleData>
+		<SimpleData name="Longitude">72.65000850000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6500085,23.0240978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naroda </name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Gujarat State Highway 68, GIDC Naroda, Ahmedabad, Gujarat 382330, India</SimpleData>
+		<SimpleData name="Latitude">23.074913</SimpleData>
+		<SimpleData name="Longitude">72.655845</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.655845,23.074913,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Asarva</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Jahangirpura, Asarwa, Ahmedabad, Gujarat 380016, India</SimpleData>
+		<SimpleData name="Latitude">23.0414554</SimpleData>
+		<SimpleData name="Longitude">72.601811</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.601811,23.0414554,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SARASPUR</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Saraspur Bal Bhavan, Nr, Maniben K.K. Eye Hospital,</SimpleData>
+		<SimpleData name="Latitude">23.029737</SimpleData>
+		<SimpleData name="Longitude">72.611924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.611924,23.029737,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NARANPURA</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Naranpura Ward Office, Nr.Kameshwar Mahadev Mandir, Naranpura,Ahmedabad</SimpleData>
+		<SimpleData name="Latitude">23.057469</SimpleData>
+		<SimpleData name="Longitude">72.556409</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.556409,23.057469,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shahpur Ward office</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Dudheshwar Sub Zonal Office, Dudheshwar water works compound, Shahibaug, Ahmedabad</SimpleData>
+		<SimpleData name="Latitude">23.051609</SimpleData>
+		<SimpleData name="Longitude">72.583484</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.583484,23.051609,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CHANDLODIA</name>
+	<ExtendedData><SchemaData schemaUrl="#amc_facilities__ward_office">
+		  
+		<SimpleData name="Address">Old Nagarpalika Office</SimpleData>
+		<SimpleData name="Latitude">23.080566</SimpleData>
+		<SimpleData name="Longitude">72.551097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.551097,23.080566,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
