@@ -25,6 +25,35 @@ import kmlFile17 from './KML/Extra/Medical_Stores.kml';
 import kmlFile18 from './KML/Extra/Ward_Boundary.kml';
 
 const LayersControl = ({ layers, selectedLayers }) => {
+    // const layerStyles = {
+    //     'Ward Boundary': { color: 'darkgreen', fillColor: 'green', weight: 2, fillOpacity: 0.1 },
+    //     Railway: { color: 'black', weight: 5, dashArray: '7,10' },
+    //     Drains: { color: 'red', weight: 2 },
+    //     'Water Movement': { color: '#7196d1', weight: 4, dashArray: '5,5' },
+    //     Streams: { color: 'yellow', weight: 5, dashArray: '5,5' },
+    //     WaterBodies: { color: 'blue', weight: 3, fillOpacity: 0.5 },
+    //     Slums: { color: 'brown', weight: 3, fillOpacity: 0.5 },
+    // };
+
+    // const ZoneBoundary = (properties) => {
+    //     const zone = properties['zone_amc'];
+    //     switch (zone) {
+    //         case 'South':
+    //             return { color: '#687EBB', fillColor: '#8E9FCC', weight: 1, fillOpacity: 0.5 };
+    //         case 'East':
+    //             return { color: '#9DDBEA', fillColor: '#B7E1ED', weight: 1, fillOpacity: 0.5 };
+    //         case 'North':
+    //             return { color: '#B69890', fillColor: '#C7B4B0', weight: 1, fillOpacity: 0.5 };
+    //         case 'West':
+    //             return { color: '#FED864', fillColor: '#E8DF8A', weight: 1, fillOpacity: 0.5 };
+    //         case 'New West':
+    //             return { color: '#7C7C7C', fillColor: '#A6A39C', weight: 1, fillOpacity: 0.5 };
+    //         case 'Central':
+    //             return { color: '#009D57', fillColor: '#61BF8B', weight: 1, fillOpacity: 0.5 };
+    //         default:
+    //             return { color: 'gray', weight: 1 };
+    //     }
+    // };
     const layerStyles = {
         'Ward Boundary': { color: 'darkgreen', fillColor: 'green', weight: 2, fillOpacity: 0.1 },
         Railway: { color: 'black', weight: 5, dashArray: '7,10' },
@@ -34,7 +63,6 @@ const LayersControl = ({ layers, selectedLayers }) => {
         WaterBodies: { color: 'blue', weight: 3, fillOpacity: 0.5 },
         Slums: { color: 'brown', weight: 3, fillOpacity: 0.5 },
     };
-
 
     const ZoneBoundary = (properties) => {
         const zone = properties['zone_amc'];
@@ -56,6 +84,27 @@ const LayersControl = ({ layers, selectedLayers }) => {
         }
     };
 
+    const onEachFeature = (feature, layer) => {
+        if (feature.properties) {
+            layer.bindPopup(`
+                <div class="popup-table">
+                    <table>
+                        ${Object.entries(feature.properties)
+                    .map(
+                        ([key, value]) => `
+                                    <tr>
+                                        <td><b>${key}</b></td>
+                                        <td>${value}</td>
+                                    </tr>
+                                `
+                    )
+                    .join('')}
+                    </table>
+                </div>
+            `);
+        }
+    };
+
     const markerCreators = {
         'Zone Office': (feature, latlng) =>
             L.marker(latlng, {
@@ -65,20 +114,7 @@ const LayersControl = ({ layers, selectedLayers }) => {
                     iconSize: [20, 20],
                     iconAnchor: [10, 10],
                 }),
-            }).bindPopup(`
-                <div class="popup-table">
-                    <table>
-                        <tr>
-                            <td><b>Ward</b></td>
-                            <td>${feature.properties.name}</td>
-                            </tr>
-                            <tr>
-                            <td><b>Name</b></td>
-                            <td>${feature.properties.description}</td>
-                        </tr>
-                    </table>
-                </div>
-            `),
+            }),
         'Ward Office': (feature, latlng) =>
             L.marker(latlng, {
                 icon: L.divIcon({
@@ -87,20 +123,7 @@ const LayersControl = ({ layers, selectedLayers }) => {
                     iconSize: [20, 20],
                     iconAnchor: [10, 10],
                 }),
-            }).bindPopup(`
-                <div class="popup-table">
-                    <table>
-                        <tr>
-                            <td><b>Office</b></td>
-                            <td>${feature.properties.name}</td>
-                        </tr>
-                        <tr>
-                            <td><b>Address</b></td>
-                            <td>${feature.properties.Address}</td>
-                        </tr>
-                    </table>
-                </div>
-            `),
+            }),
         'Natural Outfall': (feature, latlng) =>
             L.marker(latlng, {
                 icon: L.divIcon({
@@ -127,16 +150,7 @@ const LayersControl = ({ layers, selectedLayers }) => {
                     iconSize: [20, 20],
                     iconAnchor: [10, 10],
                 }),
-            }).bindPopup(`
-                <div class="popup-table">
-                    <table>
-                        <tr>
-                            <td><b>Location</b></td>
-                            <td>${feature.properties.Address}</td>
-                        </tr>
-                    </table>
-                </div>
-            `),
+            }),
         'AMC_WLS': (feature, latlng) =>
             L.marker(latlng, {
                 icon: L.divIcon({
@@ -145,16 +159,7 @@ const LayersControl = ({ layers, selectedLayers }) => {
                     iconSize: [20, 20],
                     iconAnchor: [10, 10],
                 }),
-            }).bindPopup(`
-                <div class="popup-table">
-                    <table>
-                        <tr>
-                            <td><b>Location</b></td>
-                            <td>${feature.properties.Place}</td>
-                        </tr>
-                    </table>
-                </div>
-            `),
+            }),
         'SewerPS': (feature, latlng) =>
             L.marker(latlng, {
                 icon: L.divIcon({
@@ -163,16 +168,7 @@ const LayersControl = ({ layers, selectedLayers }) => {
                     iconSize: [20, 20],
                     iconAnchor: [10, 10],
                 }),
-            }).bindPopup(`
-                <div class="popup-table">
-                    <table>
-                        <tr>
-                            <td><b>Location</b></td>
-                            <td>${feature.properties.Address}</td>
-                        </tr>
-                    </table>
-                </div>
-            `),
+            }),
         'SewerTP': (feature, latlng) =>
             L.marker(latlng, {
                 icon: L.divIcon({
@@ -181,16 +177,7 @@ const LayersControl = ({ layers, selectedLayers }) => {
                     iconSize: [20, 20],
                     iconAnchor: [10, 10],
                 }),
-            }).bindPopup(`
-                <div class="popup-table">
-                    <table>
-                        <tr>
-                            <td><b>Location</b></td>
-                            <td>${feature.properties.Address}</td>
-                        </tr>
-                    </table>
-                </div>
-            `),
+            }),
         'StromPS': (feature, latlng) =>
             L.marker(latlng, {
                 icon: L.divIcon({
@@ -208,45 +195,54 @@ const LayersControl = ({ layers, selectedLayers }) => {
                     iconSize: [20, 20],
                     iconAnchor: [10, 10],
                 }),
-            }).bindPopup(`
-                <div class="popup-table">
-                    <table>
-                        <tr>
-                            <td><b>Name</b></td>
-                            <td>${feature.properties.Firm_nm}</td>
-                        </tr>
-                        <tr>
-                            <td><b>Name</b></td>
-                            <td>${feature.properties.add1}${feature.properties.Add2}</td>
-                        </tr>
-                    </table>
-                </div>
-            `),
+            }),
     };
 
     return (
+        // <>
+        //     {
+        //         layers
+        //             .filter((layer) => selectedLayers.includes(layer.name))
+        //             .map((layer, index) => (
+        //                 <GeoJSON
+        //                     key={`${layer.name}-${index}`} // Unique key
+        //                     data={layer.geojson}
+        //                     style={(feature) => {
+        //                         if (layer.name === 'Zone Boundary') {
+        //                             return ZoneBoundary(feature.properties);
+        //                         }
+        //                         return layerStyles[layer.name] || {};
+        //                     }}
+        //                     pointToLayer={(feature, latlng) =>
+        //                         markerCreators[layer.name]
+        //                             ? markerCreators[layer.name](feature, latlng)
+        //                             : L.circleMarker(latlng)
+        //                     }
+        //                 />
+        //             ))
+        //     }
+        // </>
         <>
-            {
-                layers
-                    .filter((layer) => selectedLayers.includes(layer.name))
-                    .map((layer, index) => (
-                        <GeoJSON
-                            key={`${layer.name}-${index}`} // Unique key
-                            data={layer.geojson}
-                            style={(feature) => {
-                                if (layer.name === 'Zone Boundary') {
-                                    return ZoneBoundary(feature.properties);
-                                }
-                                return layerStyles[layer.name] || {};
-                            }}
-                            pointToLayer={(feature, latlng) =>
-                                markerCreators[layer.name]
-                                    ? markerCreators[layer.name](feature, latlng)
-                                    : L.circleMarker(latlng)
+            {layers
+                .filter((layer) => selectedLayers.includes(layer.name))
+                .map((layer, index) => (
+                    <GeoJSON
+                        key={`${layer.name}-${index}`} // Unique key
+                        data={layer.geojson}
+                        style={(feature) => {
+                            if (layer.name === 'Zone Boundary') {
+                                return ZoneBoundary(feature.properties);
                             }
-                        />
-                    ))
-            }
+                            return layerStyles[layer.name] || {};
+                        }}
+                        pointToLayer={(feature, latlng) =>
+                            markerCreators[layer.name]
+                                ? markerCreators[layer.name](feature, latlng)
+                                : L.circleMarker(latlng)
+                        }
+                        onEachFeature={onEachFeature}
+                    />
+                ))}
         </>
     );
 };

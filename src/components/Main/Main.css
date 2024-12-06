@@ -135,6 +135,13 @@
 
 
 /* Style the popup container */
+.popup-table {
+    max-height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: none;
+}
+
 .popup-table table {
     width: 100%;
     border-collapse: collapse;
@@ -143,11 +150,13 @@
 .popup-table td {
     padding: 5px 10px;
     vertical-align: top;
-}
-
-.popup-table td {
     color: #333;
     line-height: 1.5;
+    word-wrap: break-word;
+}
+
+.leaflet-popup-content-wrapper {
+    max-width: 300px;
     word-wrap: break-word;
 }
 
